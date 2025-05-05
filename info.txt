@@ -1,0 +1,15 @@
+Platforma LAB
+https://lms.godeploy.it/
+
+Laboratoria - treść
+https://github.com/MicrosoftLearning/AZ-040T00-Automating-Administration-with-PowerShell/tree/master/Instructions/Labs
+
+
+Materiały do kursu
+https://learn.microsoft.com/en-us/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=991060#study-guide
+
+
+Dodatkowe materiały:
+https://github.com/mariusz7b1/Kurs-Dagma
+
+E-mail do kontaktu :gola.m@szkolenia.dagma.pl
