@@ -1,0 +1,1 @@
+$users=Get-ADUser -Filter {name -like "e*" -or  name -like "s*"} -SearchBase "ou=marketing,dc=adatum,dc=com" 
