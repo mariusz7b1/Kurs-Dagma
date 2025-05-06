@@ -6,8 +6,7 @@ $number = 7
 "{0:D5}" -f $number # Wyjście: "00007"
 
 # Formatowanie liczb zmiennoprzecinkowych z określoną liczbą miejsc po przecinku:
-$number = 123.45678
-"{0:F2}" -f $number # Wyjście: "123.46"
+c
 
 # Formatowanie liczb w formacie walutowym:
 $number = 12345.6789
