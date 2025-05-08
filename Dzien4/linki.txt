@@ -1,0 +1,2 @@
+https://learn.microsoft.com/en-us/training/modules/troubleshoot-scripts-handle-errors-windows-powershell/
+https://learn.microsoft.com/en-us/training/modules/use-functions-modules-windows-powershell-scripts/
