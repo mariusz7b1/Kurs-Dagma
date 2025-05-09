@@ -1,0 +1,1000 @@
+Karina;Kornek;93032178467;2749278574;ulica Składowa 833,02-899 Goleniów;85.779998;148.609232;65.109.58.119;fabianjaroch@onet.pl
+Fryderyk;Piwowarek;11082179429;6377846209;pl. Krótka 43/26,28-593 Mikołów;86.6752135;134.497590;87.179.71.174;musialaelzbieta@interia.pl
+Cezary;Iskierka;72052850445;3522598877;al. Wrocławska 278,67-918 Wałcz;-60.4537625;-59.873033;216.32.58.51;zoltekmalwina@yahoo.com
+Józef;Potoczek;79010642652;4284922767;ulica Łączna 204,16-788 Jarosław;65.4105085;-37.360601;124.215.60.68;msuchora@interia.pl
+Mieszko;Tolak;13092479425;1546619667;pl. Kazimierza Wielkiego 02,38-186 Żagań;-84.4856425;-57.713846;45.89.203.136;karinaszajna@yahoo.com
+Daniel;Pyrkosz;56121144813;5735681037;al. Agrestowa 44,43-115 Augustów;-47.402286;175.952575;142.131.175.229;olga22@yahoo.com
+Kaja;Krzysiek;46090430264;4412111952;pl. Skośna 695,30-262 Grudziądz;-16.633403;-136.486421;111.147.206.194;kamil19@interia.pl
+Norbert;Pyś;26041058167;4294274703;ulica Rumiankowa 81/48,80-903 Łódź;62.9078065;-36.620447;212.201.43.226;wiluszdaniel@gmail.com
+Konstanty;Pazera;54122216221;4941472756;ul. Morcinka 01,93-807 Wrocław;-24.629603;10.202506;23.181.252.165;tolahennig@o2.pl
+Konstanty;Roda;67043055219;3690617428;plac Wspólna 26/13,57-097 Jaworzno;69.012381;128.554252;136.244.61.194;pwelc@yahoo.com
+Justyna;Kominiak;64101347325;6639989187;ulica Cegielniana 627,19-805 Bielsko-Biała;3.694400;-139.900259;25.30.90.184;vkosak@onet.pl
+Rafał;Myszak;58041149453;1598490168;ul. Rycerska 51/27,18-536 Nowa Sól;-28.953295;68.207809;105.242.111.4;blazejakblanka@gmail.com
+Artur;Kotala;22242549792;8311829503;aleja Ściegiennego 87/20,20-895 Zawiercie;6.684115;35.643700;223.135.217.144;marekwelc@yahoo.com
+Gabriel;Raszkiewicz;12260722132;9128182114;ul. Rolnicza 951,68-002 Bełchatów;24.047541;-162.907363;216.235.65.200;szulimangelika@onet.pl
+Gaja;Dynak;60090940480;3645400772;pl. Kaliska 48,09-104 Częstochowa;-64.360647;74.824523;140.125.177.248;cbazylewicz@gmail.com
+Sylwia;Bieszke;24112039273;3797453509;pl. Kochanowskiego 69/21,09-877 Kraśnik;13.386362;-10.657836;109.81.228.46;anastazja42@o2.pl
+Anastazja;Batóg;72082881165;3740521335;aleja Swierkowa 04/44,66-773 Świecie;79.841884;146.001098;178.167.200.106;johnliwia@hotmail.com
+Bianka;Tyczka;22221439807;4747382392;aleja Listopada 87,19-095 Zduńska Wola;17.1938065;1.064894;209.148.93.142;dagmara25@interia.pl
+Marika;Płócienniczak;33062112974;6810583189;ul. Brzoskwiniowa 463,56-160 Zduńska Wola;-83.514412;-83.674738;206.180.163.236;banachowicznatasza@gmail.com
+Tadeusz;Leżoń;04250697395;6541519142;al. Szarych Szeregów 451,25-471 Knurów;-26.6951015;-63.680966;171.225.104.116;aleksanderlatuszek@gmail.com
+Kalina;Mirocha;41021068017;1586912652;ul. Wiatraczna 715,39-265 Łomża;59.5780475;17.332788;157.5.53.183;reiterroksana@yahoo.com
+Eryk;Oleśkiewicz;29122713610;7647626583;al. Bolesława Krzywoustego 78/81,81-924 Siemianowice Śląskie;-49.3171165;-155.572859;152.119.209.152;podsiadlamaks@interia.pl
+Piotr;Cięciwa;99052576542;9435664976;plac Klonowa 13,43-972 Czerwionka-Leszczyny;-41.0852915;29.340176;182.243.92.98;pniedzwiadek@interia.pl
+Ida;Wyroba;06321258177;8389517754;aleja Wyspiańskiego 61,58-049 Opole;68.5202725;40.908902;208.208.26.134;maciej91@hotmail.com
+Sonia;Damian;65102206864;8631147314;aleja Piwna 93/75,90-376 Piła;-15.501601;148.556986;137.171.100.81;apolonia16@onet.pl
+Urszula;Nagel;88031822790;2755427694;al. Szczęśliwa 22,65-942 Rumia;20.5902885;104.746499;157.133.12.93;golusgabriel@interia.pl
+Olgierd;Kandora;87072816223;6419179894;plac Maczka 85/40,46-112 Piaseczno;-29.553721;-13.992337;76.251.13.166;nicolesoltysek@onet.pl
+Melania;Zięciak;90020178344;5394540783;aleja Zielona 137,37-349 Tarnobrzeg;39.508746;-15.761961;158.76.52.77;erykszramka@o2.pl
+Igor;Kretowicz;68041363364;6311008053;aleja Jagiellońska 820,57-912 Łomża;-59.5307605;90.840634;216.139.228.167;stupaknatasza@yahoo.com
+Ernest;Kieca;28021647037;7291827681;pl. Piękna 50,65-595 Gliwice;18.5477855;144.647594;194.89.150.76;tymoteusztokarek@yahoo.com
+Gustaw;Rurka;57070585913;3374281969;al. Poniatowskiego 99/55,75-241 Kielce;-24.170119;-155.037308;85.124.133.123;aleks34@gmail.com
+Arkadiusz;Słysz;08021380774;1076903915;al. Rolnicza 64,69-187 Dębica;38.728273;-91.737635;63.116.85.214;bartekpanasiewicz@hotmail.com
+Konrad;Błażejczak;42032823549;7590735840;plac Tysiąclecia 97/63,16-382 Kościan;-84.1342605;-11.977214;152.210.80.91;jeremi41@o2.pl
+Ernest;Plak;21060605572;2297606435;plac Łączna 02/93,00-325 Warszawa;53.7101485;140.392626;167.10.64.47;ybabij@interia.pl
+Jakub;Gałęza;15312455598;8622302867;ulica Skargi 44/71,73-205 Ostrów Mazowiecka;41.3289625;65.476780;151.5.7.81;dmochmariusz@hotmail.com
+Apolonia;Romaniak;65103040582;6969075220;aleja Krasickiego 08,35-198 Oleśnica;63.3652945;119.254697;202.225.107.154;mateusz79@onet.pl
+Norbert;Wiech;01281486695;2711547691;plac Armii Krajowej 81/74,87-207 Radom;11.6028885;30.844848;135.158.40.236;ryszardlenda@interia.pl
+Kamil;Gałat;14300759702;9940135290;ulica Strażacka 61,84-093 Nowy Targ;32.7552945;-74.072477;201.124.7.193;knysakcyprian@yahoo.com
+Ernest;Rogacz;43011831911;4222166944;aleja Szmaragdowa 23/57,96-601 Skarżysko-Kamienna;-56.607523;134.077566;208.105.84.126;iwo11@hotmail.com
+Kalina;Drewnik;07081633567;7966624968;al. Wiejska 97,69-629 Czerwionka-Leszczyny;-15.614007;47.338320;14.75.126.220;bartektrzmiel@o2.pl
+Radosław;Krajniak;23011734551;2285271940;pl. Cisowa 82/15,07-007 Stalowa Wola;86.256301;6.002998;36.132.83.10;naroznytymoteusz@o2.pl
+Tola;Jaremko;58031098381;2196201783;aleja Sowia 74/79,72-389 Wągrowiec;-49.974295;46.285563;172.92.143.35;korneliasalach@onet.pl
+Lidia;Szajner;28070770117;2816559178;ulica Złota 787,24-293 Kościerzyna;-4.942994;-147.002061;194.37.179.137;anatanek@gmail.com
+Kalina;Łachut;62101770086;6411029126;aleja Wolności 17/69,22-530 Chełm;-1.692127;-27.585609;162.7.173.106;dorota18@onet.pl
+Filip;Oleksak;68022383770;1061483826;ulica Swierkowa 40,48-359 Płońsk;-48.6454995;23.681994;215.39.228.249;wkrystkowiak@hotmail.com
+Patryk;Fiedoruk;40010583658;2844783634;plac Warszawska 875,65-090 Zduńska Wola;3.514041;-43.828611;175.212.7.171;witolddabrowicz@interia.pl
+Tola;Mosiołek;36042233397;5018292963;plac Kołłątaja 75,97-861 Świdnica;67.871952;-94.399262;18.208.81.203;rozalia19@gmail.com
+Dominik;Jaracz;43052039169;8995507875;aleja Lubelska 76,19-783 Starogard Gdański;12.5732655;-25.437376;160.122.5.223;wojciech57@gmail.com
+Aleksander;Obiała;38020993121;8560130771;ul. Żytnia 441,98-853 Ostróda;20.0862475;140.557838;193.114.181.46;konrad39@o2.pl
+Monika;Wójcikiewicz;02272038552;9835840307;ulica Klasztorna 81/71,32-669 Będzin;50.2607475;-149.427189;198.208.134.233;ydarul@o2.pl
+Tymoteusz;Gryciuk;09240110829;4897553843;ulica Chopina 689,47-597 Kraśnik;51.3338765;10.819534;210.185.6.187;srokoszcezary@onet.pl
+Tobiasz;Baum;01291744907;8235231835;al. Skośna 40,26-290 Kluczbork;25.342497;-12.532416;88.63.83.209;janytadeusz@gmail.com
+Wojciech;Gajdzik;14040974825;1745310375;al. Poprzeczna 98/13,68-330 Łowicz;-30.5404485;-48.719604;190.86.235.188;ida21@onet.pl
+Dominik;Roter;96051098293;8431958930;ul. Wschodnia 02,45-129 Nowy Targ;2.3071595;-148.074904;160.213.170.79;qflisiak@o2.pl
+Melania;Chudoba;11231125743;4798124300;ulica Środkowa 80/60,53-675 Kraśnik;-67.576707;-3.600691;193.86.125.181;artur45@gmail.com
+Monika;Bartoszczyk;13062786164;1874214544;ulica Śląska 79/57,30-864 Swarzędz;-7.486172;-83.212155;208.189.41.232;mariusz57@gmail.com
+Klara;Pastor;12082405316;4511696594;plac Kossaka 42/36,43-109 Szczytno;74.878442;134.348906;47.92.226.37;pawliczaknela@interia.pl
+Tomasz;Szajna;32121509955;1092526442;ulica Krucza 78,65-699 Bielawa;84.3424095;44.018064;185.73.54.67;pkapciak@yahoo.com
+Karol;Jakóbiak;87043087935;4162268232;pl. Modrzewiowa 157,23-596 Płońsk;16.2753485;-116.695402;218.52.53.12;olgaofiara@gmail.com
+Stanisław;Wiszowaty;28110504625;2494233837;ul. Matejki 10/78,17-118 Piastów;-11.9332765;132.052203;207.243.180.255;anastazjadrop@gmail.com
+Krzysztof;Srokosz;15121991788;7735342218;aleja Szkolna 961,04-902 Stargard Szczeciński;-83.2716425;127.233574;97.217.47.82;bpacholczak@onet.pl
+Igor;Salwin;50062320099;3837702575;plac Skrajna 978,02-655 Suwałki;-38.760982;18.650575;174.152.122.112;gogolfryderyk@onet.pl
+Kamil;Sterna;24012983036;4263349989;aleja Powstańców 96/78,58-937 Dzierżoniów;-76.2913445;-49.155668;179.249.173.214;bmitoraj@interia.pl
+Aurelia;Szemraj;53090804203;5833772545;aleja Kaszubska 612,32-816 Chełm;-38.9326045;-56.369462;91.15.172.146;kordaartur@gmail.com
+Juliusz;Grochola;55012813285;8519351394;ul. Średnia 420,20-870 Kłodzko;27.386676;-57.480027;32.199.183.185;ijarczak@onet.pl
+Albert;Mojsa;82040225845;4821367672;plac Traugutta 69/31,77-884 Nowy Dwór Mazowiecki;41.346007;153.483175;222.36.135.28;parkitnykornel@hotmail.com
+Kacper;Tarach;14241947022;7692141802;ulica Turystyczna 55/50,27-445 Jaworzno;3.4965835;-159.983092;12.240.146.15;akalek@onet.pl
+Kornel;Fidura;21221069481;9843864883;ulica Nowa 81/17,22-330 Zgierz;-62.842076;-143.874532;212.209.33.204;przemyslawkubasiewicz@hotmail.com
+Jan;Królczyk;16312305562;6334840884;al. Kowalska 561,60-145 Nysa;67.8468265;-81.667220;32.79.239.216;kuderklara@yahoo.com
+Natan;Kultys;73020615891;1370975065;aleja Bema 88,84-986 Brodnica;-63.2578185;23.682015;181.141.217.237;olgierd98@interia.pl
+Oliwier;Idec;03241223171;3286597957;ulica Glówna 611,47-469 Łomża;-43.685830;-97.581051;220.102.15.94;karinakozdroj@yahoo.com
+Iwo;Owczarczak;45051489556;9335300430;pl. Bydgoska 58/35,67-159 Kalisz;-54.0443745;-154.449404;203.178.12.61;dudkowiakurszula@interia.pl
+Wiktor;Handke;95090183498;2582153084;al. Piaskowa 973,20-983 Wołomin;79.688524;123.979155;49.156.195.50;szymochatola@o2.pl
+Radosław;Garczyk;19072325405;2690583166;pl. Koralowa 162,73-220 Sosnowiec;75.893691;81.374320;194.17.164.134;vrudowicz@hotmail.com
+Aleks;Pilich;90012971555;5279420064;ul. Szymanowskiego 60/68,22-646 Siedlce;59.8938175;63.169476;212.194.171.221;elzbieta77@interia.pl
+Paweł;Westfal;76080763058;8792212548;pl. Armii Krajowej 54/36,86-018 Wołomin;25.351638;85.012553;215.81.144.114;marcelinadanieluk@yahoo.com
+Hubert;Machowiak;91040408671;7740895641;pl. Lwowska 36/77,59-307 Świnoujście;69.5190165;-156.985312;7.43.246.227;zryznar@gmail.com
+Stefan;Knych;48111195110;6183901641;al. Piękna 07/34,46-596 Ostrowiec Świętokrzyski;79.0552905;104.546522;94.252.136.133;micheltola@yahoo.com
+Piotr;Osik;62060652324;8420091284;aleja Długa 806,42-870 Toruń;-48.4918975;-27.841570;190.145.232.44;marianna46@onet.pl
+Jakub;Karczmarz;70052538909;9314603295;aleja Ciasna 494,67-765 Luboń;4.2480475;39.341591;219.8.177.18;jgebauer@o2.pl
+Olga;Prejs;49081791010;1828598580;aleja Pałacowa 841,38-180 Rybnik;-27.1365315;-36.488725;99.187.10.137;vpotoczna@hotmail.com
+Bruno;Nazarko;47060669925;4412103740;ul. Księżycowa 26,55-111 Szczecin;-85.474370;-21.897153;139.155.163.122;pnowotny@hotmail.com
+Julianna;Truchan;90092571517;4731539773;pl. Irysowa 08/78,03-565 Bełchatów;-86.687950;123.737023;186.251.240.5;sara52@yahoo.com
+Oliwier;Mrozowicz;98082146657;8410233647;ulica Wojska Polskiego 94,24-842 Olsztyn;-84.284577;18.035836;193.145.31.28;dstachelek@hotmail.com
+Michał;Fik;10300128139;5843213066;plac Okrzei 59,86-464 Radomsko;8.8090125;-176.590125;60.155.81.55;zpitura@hotmail.com
+Natasza;Grzenia;88030385049;9978243598;al. Bolesława Chrobrego 24,26-456 Augustów;-9.834928;-123.699200;143.207.57.201;ulaszczyk@gmail.com
+Lidia;Szumiło;45022502916;2849752779;ul. Środkowa 756,30-607 Jarosław;-65.5582315;25.751373;87.155.173.163;emil16@yahoo.com
+Maurycy;Jagieło;30092053392;2536068120;aleja Zacisze 06,86-905 Katowice;-17.653611;60.784496;191.88.61.14;mateuszstarostka@o2.pl
+Bruno;Nickel;07312537411;2012224485;al. Agrestowa 067,46-979 Żagań;75.7649435;110.498496;206.41.1.89;llinkiewicz@gmail.com
+Ryszard;Wojtalewicz;39040563543;8992100765;al. Kruczkowskiego 19/84,69-292 Kętrzyn;16.424602;128.799718;88.228.119.152;lidiaskupin@o2.pl
+Michał;Szałata;47081134637;2826082045;al. Lipowa 01,25-981 Elbląg;-24.868731;46.439306;78.108.200.123;julianna09@o2.pl
+Urszula;Katana;19272232305;2928452327;ul. Śląska 640,45-048 Tychy;-53.5318125;110.045570;48.118.11.108;smalszymon@yahoo.com
+Fabian;Małż;14061269058;2582398087;ulica Hallera 69,85-338 Rybnik;46.2650435;-131.803650;201.112.197.42;lolko@yahoo.com
+Marcelina;Doliwa;90031861480;9876865391;aleja Spacerowa 111,76-454 Wejherowo;50.3876485;141.296507;91.19.177.11;epiotrak@gmail.com
+Adrianna;Olszyna;37111110535;8460400254;al. Plażowa 886,41-532 Wołomin;25.3962975;173.598328;129.128.38.99;lsydor@onet.pl
+Maciej;Niemira;42120494097;3715764575;aleja Graniczna 94,88-633 Nowa Ruda;45.8685385;110.730007;156.229.34.193;walentynowiczdorota@hotmail.com
+Antoni;Janiuk;20323049212;3830790004;al. Korfantego 260,58-919 Opole;-8.9234615;134.313631;41.180.126.17;olgierdmiozga@o2.pl
+Bruno;Stypa;63111723778;5968117097;plac Koralowa 07/38,74-974 Nowy Targ;-30.6145035;70.099365;96.252.57.220;garncarzborys@hotmail.com
+Damian;Kasperczak;09232180353;1119869379;al. Szpitalna 951,55-626 Zakopane;20.606778;-40.763285;188.110.195.33;ujarczak@onet.pl
+Paweł;Kózka;92022488296;5458331727;ulica Kaliska 15/96,16-435 Nowy Dwór Mazowiecki;5.034990;109.565841;190.47.58.47;mularzmarcin@onet.pl
+Antoni;Grzesiek;63013163582;8511322051;plac Kolejowa 816,66-406 Zambrów;-85.505073;41.596841;199.162.155.235;tolarusnak@interia.pl
+Filip;Hrabia;13222661861;5936301952;ul. Truskawkowa 079,37-552 Nowa Ruda;-71.8452815;86.868042;27.86.137.207;kielanmaciej@o2.pl
+Marianna;Heleniak;55120610666;7622970404;pl. Jana 683,10-094 Mielec;49.990176;58.058114;37.77.222.14;edusik@o2.pl
+Filip;Jachimczyk;80050639717;2379884755;al. Wesoła 88,95-310 Świdnica;16.6708335;62.344979;211.133.133.152;witoldmycek@gmail.com
+Ignacy;Malcher;00262170633;2335222330;ulica Rzemieślnicza 26/95,33-257 Legionowo;-48.3931435;80.889133;29.123.88.205;angelikakuchciak@gmail.com
+Liwia;Lesner;21021753584;5026492174;ulica Kościuszki 05/98,88-268 Myszków;-35.1568575;168.012832;166.33.37.163;bianka55@interia.pl
+Sara;Glazer;24030460036;6296505450;aleja Torowa 227,26-563 Chorzów;-21.288360;62.469141;207.190.173.132;nytkoadam@o2.pl
+Ignacy;Kwinta;67033128219;2254515105;pl. Miodowa 45,52-327 Wejherowo;-43.060952;148.089597;220.0.246.58;dawidkursa@interia.pl
+Alan;Suda;07122361637;7742878954;ulica Brzozowa 655,78-793 Starogard Gdański;69.3173705;-153.620390;221.162.131.204;damianirzyk@onet.pl
+Agnieszka;Lenc;61021833055;4152579723;aleja Cyprysowa 16/30,33-266 Opole;24.772707;9.743941;193.251.114.55;paluszakaleksander@yahoo.com
+Jeremi;Łachacz;06121439705;3421987258;al. Wiatraczna 22,30-144 Opole;14.5866305;-168.489725;46.131.87.197;konradwaclaw@gmail.com
+Grzegorz;Owczarczak;64081014389;8718306226;pl. Pszenna 50/29,19-438 Ostrowiec Świętokrzyski;12.3358415;-167.729698;43.198.122.216;soczewkakonrad@yahoo.com
+Sonia;Daraż;11280629328;9874496417;ulica Kościuszki 32,53-267 Tarnowskie Góry;53.102935;-19.095113;184.12.80.78;grygomarika@interia.pl
+Ryszard;Grygo;17261468096;6934502316;pl. Miarki 031,00-885 Kwidzyn;77.028661;17.481328;146.16.39.47;symonowiczlukasz@yahoo.com
+Radosław;Pelka;95111491791;1664707878;plac Mieszka I 707,12-180 Biała Podlaska;77.252221;175.643201;217.74.66.219;emilrabiej@o2.pl
+Kajetan;Pęksa;39101024668;3853067033;plac Bema 78,19-562 Olkusz;20.410491;74.682586;196.112.126.43;thanc@gmail.com
+Przemysław;Wasiewicz;88032046212;9382468415;pl. Sucharskiego 162,48-300 Łuków;-3.2745425;-95.955134;168.74.245.115;ceteraandrzej@hotmail.com
+Dawid;Majdan;40082644222;7887589396;plac Ludowa 712,10-151 Świnoujście;-78.3937765;-105.614862;120.192.160.115;xkafel@onet.pl
+Adrian;Wojciech;54121636493;8378543156;ul. Krokusowa 69,15-882 Płock;50.416197;73.839423;157.37.128.196;krzysztofmadura@interia.pl
+Robert;Dulas;05282892422;4246092200;al. Lipca 17/69,25-117 Tarnobrzeg;58.8064645;87.817998;41.220.96.186;fabiandrygala@gmail.com
+Dagmara;Hanus;50042319284;6470678837;plac Waryńskiego 73,76-247 Sieradz;-86.9713815;-144.825711;174.6.97.68;xkulis@o2.pl
+Julita;Rzeźniczek;24021562378;4136491287;aleja Sienkiewicza 77,32-694 Łódź;-81.699930;-179.388969;212.44.28.173;sandraszczepaniec@onet.pl
+Andrzej;Tomalak;18041892591;9964737787;ulica Rózana 55,27-199 Wejherowo;-52.973732;-20.124756;213.208.139.252;wpowazka@interia.pl
+Krzysztof;Drożdżal;83042966361;9895817186;ul. Agrestowa 309,96-255 Cieszyn;22.5676155;170.751887;65.179.103.25;marcin66@o2.pl
+Olga;Sykut;12050109196;9559501541;plac Promienna 625,67-770 Stargard Szczeciński;-61.3705675;5.574923;169.15.197.197;zliedtke@o2.pl
+Dorota;Rezler;84041076222;1852087297;ulica Wilcza 06/86,06-223 Nowy Sącz;80.288887;131.590817;194.77.182.163;csadura@interia.pl
+Maks;Polakiewicz;35101153160;8929300580;plac Szmaragdowa 545,73-281 Czechowice-Dziedzice;-50.314569;-154.821014;142.231.39.165;cerdmann@onet.pl
+Ksawery;Nowotny;18091774762;7728807490;ul. Matejki 28/79,77-409 Jarocin;-77.381132;152.643373;200.12.1.229;lukaszhudzik@hotmail.com
+Adam;Szymała;02282037484;3574499696;pl. Skośna 438,04-672 Iława;-1.2191135;-35.980649;223.160.139.203;malwinaslysz@yahoo.com
+Róża;Bas;19033077024;1598698874;ul. Widok 03,31-294 Lubartów;-66.7631735;105.803509;129.151.87.210;lyjakapolonia@hotmail.com
+Marcelina;Domińczak;93121640802;9294218989;ul. Zwycięstwa 366,34-351 Dąbrowa Górnicza;22.7853065;54.487400;165.253.206.108;marekszybiak@onet.pl
+Kaja;Bystroń;36111099305;3654461655;ul. Szymanowskiego 28,40-302 Gniezno;-88.972172;-161.692955;98.36.59.81;strancmaks@hotmail.com
+Dagmara;Waleczek;75011823959;3533388244;aleja Traugutta 20,27-089 Chełm;-65.700021;148.103714;196.194.182.101;chnat@yahoo.com
+Adrianna;Gregorczuk;09070931089;3955592607;al. Grunwaldzka 34,96-377 Jawor;20.2147435;-164.661445;77.8.146.104;kalina65@o2.pl
+Leon;Gajowiak;23032663317;9293601798;ul. Jeżynowa 37/16,46-469 Pabianice;73.057237;-14.491325;192.120.49.134;jerzytyka@onet.pl
+Malwina;Rembacz;13073088327;3027828847;pl. Kopernika 85,68-072 Konin;61.9132015;67.028034;35.248.126.135;stefan47@o2.pl
+Adrianna;Strama;11102130270;6595122403;al. Jadwigi 724,16-845 Szczecin;88.3468695;-38.548106;29.156.212.99;zlinka@interia.pl
+Aniela;Skrobek;15100641576;1140864617;ulica Sosnowa 34,42-412 Nowa Sól;-3.153590;152.810326;126.8.16.240;ocybul@yahoo.com
+Oskar;Nesterowicz;91122003165;7428914974;ulica Morska 93,13-372 Białystok;72.233880;140.344077;83.229.87.15;sarosiekagnieszka@interia.pl
+Tadeusz;Łaciak;32011286166;7631963438;aleja Drzymały 974,56-062 Siedlce;77.2481745;89.072380;214.64.148.95;kajaceran@interia.pl
+Cyprian;Drobisz;50042445279;6925030131;plac Truskawkowa 829,82-218 Skarżysko-Kamienna;58.640381;-162.309000;140.104.200.137;niedzwiadekewa@hotmail.com
+Julita;Wichary;56090136909;5547085371;ulica Rajska 79,43-093 Kutno;65.866324;-41.249793;20.101.77.147;konstanty95@gmail.com
+Róża;Muniak;93081657577;8818201001;pl. Zakątek 90,16-220 Racibórz;39.314852;81.521882;132.22.119.48;gajanaczk@o2.pl
+Jakub;Tórz;90013068241;6834904156;ul. Strzelecka 67/06,33-271 Pszczyna;24.550994;145.234881;7.37.29.231;tsztaba@interia.pl
+Julianna;Majczyna;62082548757;9831596112;aleja Poprzeczna 266,82-383 Łowicz;-53.805765;61.412152;73.103.124.20;szczechowiczdariusz@onet.pl
+Maria;Sadura;02222651527;5333755331;al. Szpitalna 639,60-605 Wrocław;-44.7704705;-49.376713;131.191.234.222;aleksanderrajman@gmail.com
+Konstanty;Ścibisz;27102823454;6461833787;ul. Ptasia 747,27-101 Katowice;40.785974;-42.825479;90.235.211.101;ljanczura@yahoo.com
+Apolonia;Frelich;34102040534;9962438709;ul. Piekarska 038,23-696 Elbląg;6.691381;-146.036727;119.152.167.21;nicolemilka@yahoo.com
+Krzysztof;Daraż;53090599181;2510786265;pl. Widok 97/30,10-332 Chełm;70.656630;-149.868334;109.36.190.250;bakdagmara@yahoo.com
+Kajetan;Goś;45120297028;9511898478;al. Spacerowa 35,43-921 Iława;-18.9067295;-121.401415;91.230.126.75;sjasko@o2.pl
+Radosław;Samulak;45060284696;6324233272;pl. Towarowa 822,65-992 Wołomin;-15.819548;139.772537;112.234.249.76;zzero@interia.pl
+Kajetan;Krauza;98020800715;1142410211;plac Maja 77/03,56-882 Lubartów;19.1444095;56.539759;143.167.191.142;suszkofilip@interia.pl
+Stanisław;Nastaj;12272334848;8641007052;ul. Polna 892,60-249 Bartoszyce;67.918043;-118.973095;20.82.163.242;mikolaj62@yahoo.com
+Karol;Gryska;40010582145;6013903411;pl. Brzechwy 82/91,41-454 Kielce;-1.1575665;-129.560275;173.107.93.122;sebastian92@yahoo.com
+Krzysztof;Walentynowicz;41020505296;6276224357;ulica Mostowa 60/38,99-026 Bartoszyce;67.3077565;-3.721608;192.174.165.167;olgacogiel@interia.pl
+Albert;Morka;34121381777;7923601624;aleja Storczykowa 877,05-671 Ruda Śląska;-62.5670135;-177.762345;31.183.38.173;hpodsiadla@onet.pl
+Arkadiusz;Pacholczak;23110899555;5194591818;pl. Zakole 676,41-649 Starogard Gdański;35.399744;161.992861;132.162.98.78;franasmarcel@interia.pl
+Sara;Kliber;24012262368;1146082784;ul. Jarzębinowa 323,84-059 Brzeg;-43.521580;42.839326;102.58.2.63;obulanda@gmail.com
+Aleksander;Fidler;77041239359;9466585700;pl. Korfantego 70,61-291 Leszno;-30.7053895;-154.883478;75.88.78.23;upela@interia.pl
+Damian;Spychaj;16101074657;3452840579;al. Zaułek 83/26,36-583 Jarocin;16.640802;16.398008;170.174.46.151;daniel34@gmail.com
+Angelika;Podgórny;37031760548;4975560640;ul. Poznańska 645,38-855 Bełchatów;72.7169705;131.951495;168.120.25.47;aniela58@gmail.com
+Janina;Milewczyk;39072444290;4383264244;aleja Grzybowa 37,69-583 Głogów;-1.950072;-67.218751;182.172.197.169;ntabak@gmail.com
+Elżbieta;Kosowicz;96091716108;5264410208;al. Słowackiego 232,99-700 Marki;-67.298108;-2.457115;56.96.34.64;isoroko@hotmail.com
+Marianna;Radke;38031383898;4840069361;al. Rybacka 31,69-959 Ruda Śląska;24.655462;53.069159;69.248.101.49;dorotalatuszek@hotmail.com
+Ewa;Pałyga;65020809143;2544866853;ulica Żeromskiego 996,36-250 Ostrów Mazowiecka;-64.9030815;-170.909360;133.200.92.124;ida35@o2.pl
+Tomasz;Sławik;68123081762;7821714810;pl. Wyszyńskiego 29/53,64-929 Gorlice;3.107956;35.512946;122.225.239.210;jakub66@hotmail.com
+Justyna;Molga;07242300985;3520374323;al. Sucharskiego 696,42-846 Nysa;-24.064323;172.608103;55.190.56.252;marcelinalinek@yahoo.com
+Janina;Maruszczyk;77061590030;5778661863;plac Plażowa 379,85-419 Świebodzice;-41.3092835;-69.016534;198.215.62.73;kaja18@hotmail.com
+Adrian;Barteczko;26112789905;6451463515;aleja Handlowa 675,26-041 Zawiercie;-23.518524;66.182135;135.148.140.237;dackosebastian@hotmail.com
+Stanisław;Krüger;74050669234;5263731502;pl. Rzemieślnicza 61,70-305 Lubin;-46.677929;-32.269865;58.135.163.123;mariuszpacholak@gmail.com
+Marianna;Pela;12231578210;1352643660;plac Bociania 58/70,32-166 Przemyśl;22.9464675;-33.741978;165.126.89.161;rafal95@interia.pl
+Dominik;Ziajka;99071792749;4875160527;ulica Miłosza 43,04-265 Żywiec;-59.7541445;-67.330019;20.44.128.216;juliusztomal@interia.pl
+Tola;Kieloch;77060987057;6475714874;al. Reymonta 29,58-419 Starachowice;-34.542320;-115.247621;138.88.64.180;dsmorag@yahoo.com
+Damian;Ruchała;14070975751;3994458563;ul. Batalionów Chłopskich 91,21-599 Opole;83.433733;-18.681548;212.136.175.47;sieradzanjacek@gmail.com
+Konrad;Teper;22070245208;2271118051;plac Radosna 55,88-463 Wągrowiec;-75.3798145;-31.150425;150.78.187.86;jeziormonika@hotmail.com
+Gustaw;Białczyk;10262799202;2927163443;plac Tulipanowa 50/69,11-542 Ostrowiec Świętokrzyski;33.9102585;121.175133;168.138.158.32;maksymilian39@yahoo.com
+Fabian;Jeka;13232628812;2573485846;ul. Polna 063,61-821 Śrem;72.741958;115.331665;155.1.122.166;iwo16@yahoo.com
+Nikodem;Hapka;90111761705;4688175868;plac Kalinowa 50/62,24-744 Zakopane;-75.0638835;165.320732;212.169.238.183;micheltymon@yahoo.com
+Kamila;Śledzik;16230456146;3778453388;ulica Konwaliowa 01,06-340 Wejherowo;-12.537860;138.275971;183.172.77.70;leonardchochol@o2.pl
+Gustaw;Portka;46082415925;5260202513;ulica Lisia 18/60,01-873 Żywiec;36.427853;9.999320;190.65.22.221;kzwiazek@interia.pl
+Nataniel;Sapa;59062760610;1273906378;ul. Perłowa 249,68-064 Skarżysko-Kamienna;0.979456;10.090389;205.120.28.19;franciszeksalawa@gmail.com
+Olaf;Perczak;94020351473;8791734753;al. Sucharskiego 58/91,47-686 Piła;-86.483666;177.400341;69.25.33.162;grzelczykkrystian@interia.pl
+Leon;Podkowa;03241456511;1453260653;ul. Magnoliowa 15,36-453 Skierniewice;46.360366;-15.376805;98.237.228.68;tymoteuszmorawiak@hotmail.com
+Adrianna;Rzeźniczek;16301576667;5227005896;al. Kaszubska 50,11-010 Rumia;-28.4794765;21.483210;79.62.231.92;erykkowalak@onet.pl
+Dagmara;Lewek;14232628109;2513660872;ulica Sienkiewicza 45,78-734 Piaseczno;-59.754989;7.976831;213.103.242.126;gustaw62@onet.pl
+Ida;Trzmiel;90091767416;4153705710;al. Wschodnia 16,45-736 Nowy Dwór Mazowiecki;-73.027920;-39.094113;141.111.118.229;juskiewiczszymon@o2.pl
+Fabian;Kościuszko;19120872662;9549155646;ulica Mieszka I 733,70-650 Kutno;56.165778;62.431586;207.77.3.90;talaskablazej@yahoo.com
+Oskar;Fiołka;44111727993;7292127448;pl. Hutnicza 64/65,02-400 Augustów;-59.739152;27.191510;201.13.137.194;dbatog@gmail.com
+Krystyna;Karol;71090598696;3437198943;ulica Podwale 17/21,52-971 Świebodzice;-66.3642465;-135.897972;145.41.13.180;jakub41@o2.pl
+Patryk;Obst;50112966967;2690597731;pl. Żeglarska 535,71-857 Kalisz;-39.516154;157.005673;163.24.42.229;szymon24@onet.pl
+Kajetan;Kusyk;38112037940;3175144922;plac Rynek 35/74,73-174 Toruń;77.686022;-0.473337;138.131.176.147;rozalyskawa@onet.pl
+Nicole;Bugiel;16271840643;6810331476;ulica Tysiąclecia 24/03,89-986 Inowrocław;-8.234658;159.370201;192.153.101.69;grytaewelina@yahoo.com
+Gustaw;Hirsch;09252078971;3573706822;pl. Torowa 05/05,67-456 Nowy Dwór Mazowiecki;-12.222990;15.240732;197.35.125.71;lindadaniel@onet.pl
+Aleks;Majzner;39122075283;7561702708;aleja Poziomkowa 25,67-632 Krotoszyn;49.4187985;17.528150;57.216.165.164;krystianmaruszczak@o2.pl
+Nataniel;Żółkiewicz;11260695743;9424053447;pl. Lelewela 58/24,89-889 Lublin;50.108730;-112.340293;212.85.102.255;aniela35@gmail.com
+Franciszek;Potoczek;77090585081;9459526004;aleja Pszenna 91,91-130 Leszno;35.7661785;-80.524312;195.55.194.124;wojciechlica@onet.pl
+Anastazja;Kretek;11012732210;6590228166;pl. Sosnowa 202,86-256 Szczytno;-60.8131785;-159.378423;65.210.41.144;swierkotjeremi@gmail.com
+Artur;Cierpka;51100948190;1749624136;pl. Okrężna 680,03-635 Dzierżoniów;17.3941735;-39.616881;200.220.146.91;tadeuszlada@onet.pl
+Leonard;Kubaczyk;63011384264;1179949099;aleja Tulipanowa 44,43-869 Chrzanów;88.1246945;-164.290700;187.59.40.151;zimoneliza@hotmail.com
+Lidia;Wawrzyńczyk;28021655175;3425078475;plac Daszyńskiego 13,28-419 Wrocław;44.9125585;57.982237;217.219.233.34;iwosuchojad@onet.pl
+Krystian;Rawa;85010338617;2592271069;aleja Bociania 657,82-839 Czechowice-Dziedzice;-67.8944055;-148.819616;153.72.26.35;emilfidor@onet.pl
+Maksymilian;Symonowicz;40052757116;9147768022;pl. Orzeszkowej 208,74-287 Ruda Śląska;-60.672755;45.698690;111.49.219.35;andrzejuzar@gmail.com
+Filip;Fierek;39050532834;8699492971;plac Cedrowa 39/57,79-461 Piła;1.6795395;37.907924;111.53.137.51;wiktormysior@yahoo.com
+Liwia;Glazer;59042033323;2816332090;plac Skłodowskiej-Curie 981,72-707 Elbląg;24.953254;119.561394;47.71.42.199;jeremiplesniak@interia.pl
+Ada;Elsner;79070685455;4599242184;ul. Broniewskiego 79/10,19-792 Będzin;1.414598;-34.544461;147.227.144.107;wojewodziccezary@o2.pl
+Maksymilian;Olas;90011677070;8688773689;pl. Skośna 09/83,39-968 Bytom;87.927441;-129.249482;67.217.158.80;vcywka@interia.pl
+Filip;Kryza;60061099210;5224022960;pl. Kalinowa 40/38,97-676 Kraków;-84.796728;-140.379986;27.234.200.97;eliza84@onet.pl
+Marcelina;Noras;18221561228;9964824747;ulica Dworska 21/37,72-524 Ciechanów;-18.526144;69.366648;38.157.231.135;pochopienkamil@yahoo.com
+Marianna;Sztaba;22091570303;8822524271;ulica Piaskowa 859,50-358 Zduńska Wola;-60.1977395;32.810411;87.25.107.11;olgierdkalwa@gmail.com
+Juliusz;Styrna;67121273371;7554567126;plac Bolesława Chrobrego 16/72,71-816 Ząbki;4.874641;171.405016;208.84.125.79;yhan@yahoo.com
+Borys;Taciak;36071860917;2514735394;plac Młyńska 10,49-460 Wągrowiec;-45.3006055;-91.096111;56.252.13.199;jacek06@onet.pl
+Fryderyk;Gabryel;89031414507;5664109470;aleja Kazimierza Wielkiego 35/11,22-629 Nowa Ruda;-28.932084;-82.557895;190.190.78.75;angelika34@interia.pl
+Mariusz;Krajniak;73102377738;2612060135;ulica Korfantego 789,84-549 Pabianice;89.262760;-75.856866;185.24.31.45;maksymilianplaneta@gmail.com
+Jakub;Czopik;31071568537;4175933884;plac Rolna 132,20-186 Nowy Sącz;6.4780765;-122.956207;54.178.83.45;cpochopien@gmail.com
+Aleksander;Torbus;14112461532;3886636022;aleja Żeromskiego 42,55-814 Sieradz;55.109149;108.019213;122.186.178.220;skonieczkakacper@interia.pl
+Maks;Witkowicz;50122598855;2430117409;plac Rycerska 804,51-230 Zielona Góra;28.879772;-103.926106;217.175.103.194;sandrawiduch@gmail.com
+Borys;Grygorowicz;48011102254;7422596622;al. Kościelna 19/45,88-965 Ząbki;-36.3578565;-161.146077;176.188.255.104;chylakrobert@gmail.com
+Marek;Kaliciak;22040815307;2687594616;ulica Witosa 65/49,86-119 Kędzierzyn-Koźle;29.2419415;81.959268;136.228.244.114;kapinoskonrad@hotmail.com
+Adrian;Thomas;73010644546;2755670590;pl. Północna 87/60,14-604 Wrocław;-28.9531485;166.122761;199.3.191.142;kacperszyc@o2.pl
+Krystian;Staniewicz;94072164485;5881108638;ul. Słoneczna 84,41-319 Łódź;87.130858;144.585827;213.162.85.59;anielaprzekop@o2.pl
+Miłosz;Chomiak;30120839754;9294766395;al. Dworcowa 61,53-072 Przemyśl;-3.056570;36.727972;199.97.47.221;dominik32@gmail.com
+Stefan;Pera;66120466355;6448757170;al. Opolska 325,98-648 Łódź;-17.9308545;-101.422881;164.221.177.53;rochwat@gmail.com
+Janina;Ciemięga;95100507506;1787800641;al. Jabłoniowa 348,73-583 Łaziska Górne;-78.8536915;-112.827070;174.254.172.63;arturstyn@o2.pl
+Olaf;Martyn;69072561686;4867238574;plac Dolna 75/52,69-409 Września;-4.7817335;-151.682321;152.52.41.107;krzysztof67@yahoo.com
+Klara;Matulewicz;51022795140;5488098543;plac Źródlana 877,20-830 Gorlice;-43.5000725;99.558501;166.177.68.227;wujeclukasz@onet.pl
+Klara;Detka;05292518356;8983028956;aleja Kossaka 40,18-454 Wągrowiec;-63.5817355;29.122853;185.32.113.31;malwina23@interia.pl
+Inga;Cal;93061232699;7970313358;al. Zapolskiej 34/24,13-951 Warszawa;7.870845;-69.356772;206.166.82.47;btomzik@onet.pl
+Ida;Gaś;22302805925;7785283162;aleja Jarzębinowa 31/75,31-562 Żywiec;87.6475575;98.379320;33.7.138.70;ldreszer@yahoo.com
+Nikodem;Merda;14270961118;4555566156;pl. Starowiejska 46/29,26-189 Warszawa;-23.4211155;173.003146;205.81.46.243;leonard78@onet.pl
+Anita;Świt;29120908342;5382526168;ul. Mała 36,02-084 Piła;86.6616935;-161.071813;163.244.163.9;rszoka@interia.pl
+Szymon;Hutyra;11260867238;3785426079;ulica Kamienna 57,29-033 Marki;-18.0847125;-24.139307;151.26.160.192;staniewiczradoslaw@interia.pl
+Jeremi;Lindner;08060883586;4891394852;ulica Agrestowa 757,66-371 Czechowice-Dziedzice;-4.2996205;118.974809;13.2.216.195;ppych@gmail.com
+Jędrzej;Paliga;12091560165;2566822490;ulica Okrzei 426,14-613 Gniezno;63.8670435;-174.260649;132.116.144.72;ubysztymon@onet.pl
+Łukasz;Wojtach;65061254861;4774368108;ulica Górna 630,81-889 Piła;65.786834;-16.306844;163.179.198.116;robertbors@hotmail.com
+Melania;Tryka;96112613461;8318233038;al. Zwycięstwa 15,89-126 Suwałki;31.685180;-52.305386;220.163.171.114;aleks81@o2.pl
+Leon;Janoszek;47020125791;4662726809;ul. Kochanowskiego 51,60-999 Wałbrzych;53.135706;105.038462;20.90.41.175;hpesta@gmail.com
+Eryk;Zegadło;07113021090;4488131926;ulica Gdańska 30,38-965 Lubliniec;42.273768;114.423766;6.37.109.179;ryszard26@yahoo.com
+Jacek;Reimann;31111930672;5160053930;aleja Zielona 38,96-029 Katowice;12.8797255;-137.348851;151.160.254.193;biernacikdaniel@gmail.com
+Dagmara;Nocek;67081287203;2382151293;ulica Bolesława Krzywoustego 14,42-923 Zambrów;36.226981;-82.931420;157.194.35.117;anastazjawezyk@gmail.com
+Juliusz;Moryc;54031898853;1753447367;aleja Rajska 75,96-459 Chojnice;-57.6258435;61.582870;101.43.22.218;juliuszkretowicz@yahoo.com
+Robert;Słonka;30041833282;2098954613;ulica Cyprysowa 578,99-764 Gorzów Wielkopolski;-73.6080635;-128.950059;194.91.59.6;jacekbabel@gmail.com
+Kalina;Bobrowicz;72021461494;2616475560;plac Sybiraków 67,47-827 Swarzędz;22.174378;124.325084;184.234.219.26;mdrygas@gmail.com
+Bruno;Tomalik;25112006346;5345996595;aleja Środkowa 37/75,77-250 Ząbki;-73.922283;-21.643534;205.113.190.100;akucharz@yahoo.com
+Nikodem;Lizurej;00322585102;8254422631;pl. Korczaka 86/91,41-915 Kluczbork;16.797419;157.155923;1.95.97.166;fmydlak@yahoo.com
+Józef;Kutera;20281161779;5269886246;pl. Skłodowskiej-Curie 44,76-342 Giżycko;31.706918;55.214729;216.78.29.43;hermanowiczgaja@o2.pl
+Monika;Pospiech;22060644051;5211573830;al. Staffa 15/44,61-887 Świnoujście;-74.1108225;85.004764;152.225.29.123;marcelbulczak@interia.pl
+Marcin;Rosłon;61052672498;4559577122;al. Rolna 58,02-112 Myszków;12.8052215;45.499802;57.38.131.1;jerzy53@hotmail.com
+Gabriel;Koziarz;38120522803;5891377363;aleja Dworska 63/54,86-539 Kędzierzyn-Koźle;-28.204857;-103.737870;119.179.28.143;sfraczkiewicz@hotmail.com
+Julianna;Juszczuk;36080457052;7791812240;al. Żabia 65/42,32-930 Bolesławiec;-8.9029465;-20.132318;160.42.93.79;karina61@gmail.com
+Sylwia;Bogumił;08031587769;8621058626;ulica Kazimierza Wielkiego 539,39-694 Wodzisław Śląski;-37.750509;-34.601764;75.1.133.84;elizapalica@hotmail.com
+Angelika;Bulanda;13111393202;4443088705;pl. Zielna 919,49-267 Ełk;87.8739315;160.883163;156.147.50.166;ewelinaletkiewicz@gmail.com
+Przemysław;Koss;15283052484;1071546557;ulica Prosta 697,34-599 Skierniewice;-57.757326;-46.653065;197.141.253.77;igor42@hotmail.com
+Inga;Pasich;60022110868;7691872248;ul. Targowa 233,77-743 Kwidzyn;58.689644;90.090153;209.110.94.135;andziaktola@interia.pl
+Tola;Topa;61022334340;3798772263;plac Piekarska 82/14,84-478 Wołomin;82.837037;-36.434079;126.247.29.190;buszkahubert@hotmail.com
+Borys;Feliniak;12051063114;8426332895;ul. Skośna 371,24-886 Lębork;-7.282142;60.066408;142.5.188.207;majewiczprzemyslaw@onet.pl
+Kamila;Lubera;08091876571;3016757322;aleja Malczewskiego 518,43-048 Świdnica;24.7296595;60.247531;15.165.229.225;grogula@gmail.com
+Artur;Filusz;70062321715;2828365706;ulica Tysiąclecia 92/90,58-698 Kościerzyna;-48.8813715;-150.657583;101.47.115.134;franciszek67@gmail.com
+Karina;Hawro;94103124396;6956780525;plac Strumykowa 66,85-046 Radomsko;23.6780115;-46.476646;1.163.128.4;rdoroszkiewicz@o2.pl
+Ewelina;Gebauer;70061315694;1464097116;plac Fredry 46/98,04-446 Kraków;-34.6785545;85.629765;209.167.54.119;flagaanna-maria@onet.pl
+Ksawery;Berg;65111956402;3292841149;aleja Tylna 33,97-447 Słupsk;-37.021986;136.964337;202.12.40.180;gosikrobert@o2.pl
+Rafał;Dunal;05310734861;2312090646;pl. Tulipanowa 977,27-421 Zgorzelec;-40.5442045;54.192785;220.121.60.117;angelikalampart@gmail.com
+Sonia;Zdancewicz;20282602226;6034149669;pl. Czarnieckiego 978,85-710 Elbląg;63.5035405;178.284389;16.4.124.136;mariannasuperson@o2.pl
+Aleks;Żołnierczyk;68092854187;8817413563;aleja Rycerska 31/91,76-911 Kędzierzyn-Koźle;58.755675;121.410606;196.177.249.10;mordallidia@yahoo.com
+Adrianna;Taciak;27061970396;2872425088;pl. Ściegiennego 86,55-603 Bydgoszcz;-28.6184165;-176.946191;76.93.132.239;kyciajulian@yahoo.com
+Nicole;Drywa;03292432119;5926533394;pl. Krasickiego 049,31-581 Zamość;-88.0210805;-121.165865;3.52.79.224;jhampel@onet.pl
+Nataniel;Nytko;23062280742;4640247243;al. Truskawkowa 34,99-724 Piastów;-47.347259;-58.849162;200.21.66.157;pacuratomasz@interia.pl
+Wiktor;Ciuk;99041040092;8682393690;plac Ptasia 14,06-941 Płońsk;82.178537;17.805270;102.164.94.93;zteodorowicz@hotmail.com
+Franciszek;Fronczek;80020861054;9837643255;ul. Konstytucji 3 Maja 00,06-887 Wrocław;-21.895712;60.654722;173.55.197.204;kornelia66@hotmail.com
+Adrianna;Ryndak;68090983382;7136570433;al. Żwirki i Wigury 51,44-800 Zgorzelec;-86.3871795;130.453973;87.19.30.101;mariannajambor@o2.pl
+Kacper;Cimoch;46071577274;4918203440;al. Podmiejska 834,48-970 Zielona Góra;40.210524;-24.999166;56.82.183.185;marcelinagroth@yahoo.com
+Dorota;Jagiełka;71110923600;2060358261;al. Jagodowa 60/58,18-316 Kołobrzeg;-72.0028915;151.432479;116.43.156.74;strojnaliwia@hotmail.com
+Elżbieta;Jeżyk;49032379599;9471226375;pl. Rzemieślnicza 26/51,97-632 Tczew;56.992220;92.776985;96.50.69.24;kacperwaloszek@onet.pl
+Urszula;Holewa;74021912963;8277051032;al. Orzeszkowej 99/24,41-983 Kościerzyna;-15.236022;-152.930756;183.36.0.218;dawidkolton@hotmail.com
+Franciszek;Dytko;29012179274;3712300680;aleja Konopnickiej 60,05-406 Zambrów;-51.476152;-49.813569;103.244.38.97;iskierkajustyna@gmail.com
+Arkadiusz;Sadownik;95081399482;5467050152;aleja Sosnowa 742,02-127 Łuków;78.9050085;-133.391408;170.145.226.98;azadora@hotmail.com
+Anastazja;Wichary;25102541422;2323108746;al. Prusa 998,77-826 Suwałki;-72.950939;-8.420339;195.151.172.13;kielczykblanka@onet.pl
+Cezary;Kędziorek;48061389865;1128438093;aleja Stycznia 723,85-810 Czeladź;22.265968;88.570271;165.5.174.167;adanickel@onet.pl
+Mieszko;Krzywonos;99061226579;4440410773;aleja Lawendowa 33,09-372 Myszków;-55.743275;-39.486016;207.164.25.28;smiekina@interia.pl
+Rafał;Matacz;20101296687;2691834104;ul. Pszenna 35,84-748 Chełm;-49.0392625;104.203127;106.223.41.85;olgierdblaut@interia.pl
+Ida;Wakuła;07011356155;6265843849;aleja Jabłoniowa 485,57-707 Brzeg;-65.386531;-172.711090;195.203.165.104;wojtonsylwia@o2.pl
+Mateusz;Nazarewicz;87013047114;4473582775;aleja Niecała 891,13-447 Luboń;-5.8227675;28.682051;157.193.95.47;hwesoly@onet.pl
+Julianna;Getka;81041459455;9856516902;al. Promienna 62,38-706 Krosno;59.379762;118.616022;76.211.248.176;rgraban@yahoo.com
+Urszula;Kanik;29021976439;9167203240;ulica Poprzeczna 21,38-414 Kraśnik;-7.4670175;8.705529;130.66.126.69;pedabartek@gmail.com
+Borys;Szmajda;69082137228;1519834203;al. Storczykowa 446,91-627 Bełchatów;51.051450;24.069539;174.129.251.20;nikodemoleksiewicz@yahoo.com
+Leon;Furgał;48062680217;7013545107;ul. Modrzewiowa 34,01-493 Augustów;-4.238439;-24.746472;66.20.137.218;janinamajtyka@yahoo.com
+Szymon;Adamów;20323028802;3423576884;pl. Jana III Sobieskiego 92/21,01-724 Ostrów Wielkopolski;-19.6569675;8.219072;134.137.183.179;umikita@o2.pl
+Rafał;Rzeszutko;22110666033;1370476089;plac Wyspiańskiego 73/51,49-393 Lubartów;-60.430944;-135.123169;88.179.74.147;mariuszpeda@onet.pl
+Marika;Malisz;16032713496;8424453092;al. Nowowiejska 01,27-415 Zgorzelec;83.9641845;5.490237;139.165.144.254;sromekmalwina@yahoo.com
+Julianna;Froń;44032889219;6596772735;ul. Rejtana 553,55-089 Zielona Góra;-20.5926915;158.296188;75.126.8.196;tywoniukfilip@o2.pl
+Borys;Fraszczyk;56110132771;3012071579;ul. Piłsudskiego 13/37,88-132 Leszno;60.9400455;38.835766;134.56.59.44;hubert99@interia.pl
+Apolonia;Szrama;17312078807;4956244688;ul. Turystyczna 49/17,33-614 Nysa;60.532957;-168.188249;161.204.54.213;elzbieta81@hotmail.com
+Konrad;Sobków;74030248237;3498409073;aleja Spacerowa 94,07-348 Oświęcim;-47.0598445;155.933736;201.196.227.124;dkosiec@yahoo.com
+Jeremi;Knysak;65032602578;3252785172;aleja Staszica 921,44-919 Police;24.974012;60.801651;156.53.81.113;anastazjakorkosz@gmail.com
+Eliza;Sularz;35092659579;2913339056;al. Jana III Sobieskiego 78,10-168 Legnica;-57.5954805;176.965531;214.25.229.68;angelika13@o2.pl
+Adrian;Rut;58120917221;8828471021;pl. Źródlana 040,07-789 Września;75.258830;101.482424;133.55.17.110;tolagegotek@interia.pl
+Leon;Woszczyna;87082718724;5213473096;ulica Jasna 53,35-883 Szczecinek;3.4097335;-9.218008;207.9.219.7;vmatela@onet.pl
+Adam;Korkosz;45040939600;2231830257;ul. Witosa 10,27-373 Bełchatów;-34.3341195;-95.323868;219.5.92.104;lukasz24@interia.pl
+Maurycy;Zinkiewicz;79062226686;3142199384;ul. Makowa 20,93-113 Lubliniec;69.4159015;51.452138;42.2.214.11;szymon40@interia.pl
+Mariusz;Kiwior;51121948801;3240141718;ulica Cmentarna 537,42-255 Grudziądz;-63.803832;-44.445587;217.67.10.10;adamaszekkonstanty@hotmail.com
+Kornel;Krzyszczak;07061978464;3282539325;plac Bociania 400,15-396 Reda;60.890728;148.488281;210.110.166.189;cezarydebosz@interia.pl
+Kazimierz;Filas;13242769790;1069652234;aleja Kochanowskiego 972,97-723 Wołomin;-67.2666575;54.822334;199.4.109.78;qpawliczak@yahoo.com
+Albert;Majerczyk;60122320929;5583690667;plac Głogowa 46/29,91-059 Bielsk Podlaski;-40.872514;41.849616;90.209.132.214;qkubek@hotmail.com
+Eryk;Roter;12292447195;8553901150;al. Jaskółcza 671,41-895 Żywiec;-50.9028705;-26.016849;189.152.29.253;gkeler@onet.pl
+Dorota;Jeżyna;92092446145;2896628035;plac Jeżynowa 51,28-777 Zgierz;77.0121605;-22.396562;151.239.146.172;kalina87@yahoo.com
+Aurelia;Poniedziałek;25102753063;4433054320;plac Powstańców 60/24,68-242 Puławy;-22.6368805;29.344617;136.21.31.209;jedrzejgiezek@onet.pl
+Marek;Salach;08251342803;9446989392;ul. Reymonta 184,96-376 Wałbrzych;9.7526255;34.344858;86.63.151.222;gajamrozek@interia.pl
+Natasza;Bugno;44061673210;2188410236;plac Jana Sobieskiego 67,49-806 Piła;-9.1655995;40.648793;25.13.59.208;hennigeryk@gmail.com
+Maurycy;Kubek;17080981691;5848411902;al. Jodłowa 175,49-679 Jarosław;21.7603595;153.628354;175.33.93.127;bruno74@interia.pl
+Krystyna;Boruc;95123021159;2273101190;plac Dąbrowskiej 033,97-549 Gorlice;1.5868455;-74.628883;220.14.32.46;roksanaperlik@hotmail.com
+Cyprian;Przeklasa;18050573627;4732228029;pl. Jasna 91/24,15-917 Ostrów Wielkopolski;-25.4271035;-149.548134;196.245.163.116;gierszklara@o2.pl
+Ida;Brzykcy;73042592437;5111254114;ulica Kaszubska 36,63-370 Bytom;-25.3054775;160.708456;163.172.238.117;adawaclawiak@hotmail.com
+Blanka;Kruszka;98073088324;6933302561;plac Jana III Sobieskiego 64,48-298 Piaseczno;-72.808451;-80.847526;187.228.75.254;pkostorz@yahoo.com
+Blanka;Skwira;84050454675;8595958083;ulica Sucharskiego 48,43-993 Wrocław;87.7026545;160.226884;207.1.147.219;kajetan05@hotmail.com
+Fryderyk;Dreszer;14120935825;2068584583;al. Zakątek 348,29-135 Jaworzno;12.376630;154.294352;221.248.48.32;arturmojsa@yahoo.com
+Agnieszka;Kazana;64100422452;5383171141;ulica Azaliowa 37/31,99-180 Płock;-40.517371;-11.571807;140.188.130.35;arkadiusz14@onet.pl
+Agnieszka;Dylak;86102819379;6438489443;pl. Wałowa 792,27-242 Dębica;45.651224;-41.183395;147.146.19.100;jedralfranciszek@hotmail.com
+Krzysztof;Zimmer;09321565704;1018542369;pl. Partyzantów 75/01,31-591 Zielona Góra;20.847877;-107.599765;134.92.90.104;cyprianlangiewicz@onet.pl
+Olga;Palonek;71120305506;8375073833;plac Cegielniana 32/23,12-748 Wyszków;-75.0648325;-171.404743;138.118.119.68;vluberda@gmail.com
+Justyna;Kłysz;07122567224;1853012999;al. Stefana Batorego 48,36-661 Siedlce;-83.471394;-123.267807;131.203.120.104;lbasaj@o2.pl
+Marcel;Wichary;16252939803;8953321462;pl. Kalinowa 36/59,52-881 Wejherowo;89.1656885;-77.829827;131.25.187.169;agnieszka78@gmail.com
+Wiktor;Thomas;14251845055;5118606728;pl. Słowianska 726,63-098 Mielec;72.843847;-172.157288;206.8.115.57;hajdakamila@onet.pl
+Nataniel;Pociask;24090834820;6495094245;al. Wałowa 30/86,73-865 Sanok;88.2346985;-74.412424;205.37.86.7;tolakulisz@interia.pl
+Gaja;Gajownik;13012045204;2835020210;aleja Konwaliowa 88,44-612 Mińsk Mazowiecki;-51.4056215;100.698718;82.113.197.224;norbert74@onet.pl
+Olga;Szymków;26040427326;2680593401;pl. Wiśniowa 42/13,55-592 Legionowo;-11.4333905;153.275685;220.144.242.51;marikajonczyk@interia.pl
+Patryk;Bejger;22233026796;1269253303;al. Szarych Szeregów 889,52-819 Krotoszyn;-36.9216535;-81.167533;41.16.235.148;enalecz@interia.pl
+Andrzej;Klin;25110836589;7360725536;ulica Liliowa 09/67,86-826 Sopot;82.2830485;-123.847221;181.134.32.65;ffiedorczuk@o2.pl
+Franciszek;Wac;07323154249;1269452971;pl. Bema 378,36-539 Wrocław;-34.871417;152.903636;216.105.112.29;mlament@o2.pl
+Adam;Froń;50020651128;7641712904;plac Kalinowa 90,71-485 Wyszków;-10.6464115;-63.862610;212.164.140.69;justyna64@gmail.com
+Kornelia;Koniecko;63092014214;3156645250;ulica Jaśminowa 22,26-095 Piekary Śląskie;-54.3536945;-45.223042;218.62.43.186;filippal@onet.pl
+Ewelina;Jędrys;74071858655;9336730121;aleja Batalionów Chłopskich 795,65-649 Lubin;26.5994965;86.849510;158.71.70.132;golasmieszko@interia.pl
+Józef;Szara;68011120157;2569373012;plac Swierkowa 431,29-300 Piła;21.336574;-53.796861;63.249.170.167;igor91@hotmail.com
+Olaf;Kurbiel;01232210100;9474372373;pl. Żabia 15/44,45-834 Wałcz;-61.786025;128.380785;197.144.90.16;emilgas@interia.pl
+Krystyna;Wdowczyk;62090461721;9592714613;ulica Wspólna 59/95,00-889 Rzeszów;63.934914;112.683989;188.153.10.205;tostrega@gmail.com
+Robert;Dąbroś;56101523256;7753148573;aleja Harcerska 89,01-874 Bydgoszcz;53.248495;-11.676834;80.254.104.231;justynajaszcz@interia.pl
+Gaja;Samoraj;36121985555;7730155960;ul. Mieszka I 526,94-885 Kędzierzyn-Koźle;24.296032;-137.015895;57.242.82.33;doktorroksana@o2.pl
+Mieszko;Mejer;63011811586;4910754560;al. Klasztorna 49,40-873 Piaseczno;-7.555156;124.304910;108.197.173.180;sylwia07@gmail.com
+Bianka;Żach;78080840470;2121803325;plac Zdrojowa 66/10,64-861 Iława;-71.1487275;-104.600340;139.133.114.6;dominik98@gmail.com
+Julian;Krekora;69061241474;7952575562;pl. Ceglana 36,26-785 Pszczyna;-41.6087065;144.443645;14.54.155.141;ida48@yahoo.com
+Wojciech;Kosiak;13082625955;9189460381;aleja Nadbrzeżna 92,82-317 Legionowo;-39.876427;138.138310;156.175.123.148;okrzystek@gmail.com
+Alan;Sarosiek;40030481378;2157076575;plac Jagodowa 025,99-259 Środa Wielkopolska;7.368598;174.643996;200.102.52.254;elzbietapianka@onet.pl
+Dawid;Szymula;57012442999;8537393374;ulica Skargi 41/13,82-629 Zabrze;89.3908755;177.046444;139.214.199.119;krystian49@o2.pl
+Monika;Kubaczyk;08240467139;1231331826;pl. Jesienna 60,26-854 Skierniewice;18.2738405;-115.702683;207.244.141.250;ernest57@interia.pl
+Sebastian;Windak;03262362194;9953091761;plac Mazowiecka 78,53-410 Żywiec;53.677725;-132.845108;223.209.57.214;jacektrojanek@interia.pl
+Piotr;Matela;09052438803;3189078885;al. Morska 022,12-625 Chełm;78.2731185;-107.975375;175.251.5.255;nataszajakimiak@interia.pl
+Juliusz;Mesjasz;77111875618;4887462613;plac Strumykowa 24/20,69-940 Wieluń;7.1318345;148.661517;206.98.60.70;kheba@interia.pl
+Aniela;Pawliczak;18323129494;1268914702;ulica Przechodnia 846,17-001 Tomaszów Mazowiecki;-25.9257305;-175.655550;60.191.71.29;aleksozieblo@hotmail.com
+Fryderyk;Gryciuk;68090792137;6530510485;aleja Maja 29/92,39-756 Kętrzyn;42.6708055;-74.263547;166.50.30.162;jozefczakkamila@interia.pl
+Julian;Kleina;17262246222;6694045427;ulica Kilińskiego 00,62-713 Sanok;-10.921908;-86.252385;182.248.0.183;duniecmarcel@o2.pl
+Mateusz;Pazdan;84082642491;7229573855;aleja Krzywa 97,31-804 Puławy;42.3624705;146.823281;190.149.251.129;cyprian80@hotmail.com
+Tomasz;Rycerz;07082041619;5057498143;plac Wałowa 87/14,28-558 Nysa;44.708558;24.654819;141.170.116.231;antonimarat@onet.pl
+Aleksander;Prejs;01222509021;7793468019;ul. Rubinowa 09,21-681 Bielsko-Biała;-67.698706;-158.715146;218.203.197.219;andrzej60@onet.pl
+Rozalia;Naczk;52092508948;8932140554;al. Strumykowa 21/04,97-970 Szczecin;-80.550456;-114.730097;202.176.43.8;rmerchel@gmail.com
+Błażej;Ciechowicz;08012121153;5981968056;plac Maja 272,33-429 Tczew;1.349476;33.432681;12.246.85.169;wwejman@interia.pl
+Sandra;Żywica;47041887586;4134875411;plac Sowia 47,66-549 Chrzanów;-83.9109315;130.408377;111.190.16.121;adamaciejewicz@interia.pl
+Ksawery;Sankiewicz;11020484967;4718495314;al. Zielna 26/05,86-464 Mysłowice;-39.353679;38.240953;172.199.45.152;jan18@interia.pl
+Tadeusz;Żbik;94121195538;3587768187;aleja Mostowa 169,73-891 Chrzanów;37.9173615;35.651470;185.63.38.47;tomaszkordus@yahoo.com
+Błażej;Gosek;98062105096;4846195138;pl. Jeziorna 149,78-621 Sochaczew;-53.9323005;-127.704439;69.251.28.176;solearczyk@o2.pl
+Dominik;Neska;89091955297;3117437731;plac Wąska 980,03-026 Olkusz;-61.087986;97.069931;205.223.148.180;buzaroza@o2.pl
+Tola;Usarek;30031611951;1061862216;aleja Stycznia 70,79-583 Bartoszyce;19.8679585;5.377324;134.177.32.106;tymoteusznitkiewicz@gmail.com
+Maurycy;Jędruch;73062690298;5446083488;pl. Perłowa 311,62-015 Wałcz;-88.199972;173.347485;132.245.134.205;ida47@onet.pl
+Nela;Kałwa;71040856469;9337866242;pl. Starowiejska 20/42,77-608 Iława;8.8743505;163.591491;218.205.112.111;malysstanislaw@hotmail.com
+Miłosz;Kazana;21050580610;2110370383;ulica Turystyczna 51,85-565 Iława;-65.922264;-46.230158;207.85.107.147;maciejosipowicz@hotmail.com
+Juliusz;Domino;31101215480;8990360226;ul. Skargi 751,04-208 Opole;45.610438;52.399239;179.137.52.90;geislerbianka@interia.pl
+Julian;Wochnik;11210362097;3969293205;aleja Wesoła 47,10-524 Krotoszyn;6.6740215;-53.290088;45.153.155.176;leonardfrycz@hotmail.com
+Paweł;Linda;64122051537;6344983705;pl. Sportowa 008,12-151 Świdnik;-55.361575;76.312535;60.102.113.91;ijaniszek@gmail.com
+Sylwia;Cygal;72010351807;7466674012;al. Chabrowa 38/24,48-253 Gniezno;84.959914;-179.352145;208.57.85.96;soltysekartur@hotmail.com
+Stefan;Mazepa;08092044979;7414387393;pl. Mała 512,37-418 Nowy Dwór Mazowiecki;84.456348;154.381812;168.112.237.201;msaternus@onet.pl
+Kacper;Rajman;59030499616;2071982572;aleja Brzechwy 126,03-743 Zambrów;-81.0658295;-24.694777;188.245.152.169;inga67@o2.pl
+Wojciech;Dzierwa;08310125578;2860842136;aleja Księżycowa 539,00-394 Rybnik;-56.354109;123.872637;198.155.200.220;ystapor@yahoo.com
+Natasza;Kuchciak;03310807998;1386925526;ul. Wojciecha 58/77,93-596 Swarzędz;10.216761;-115.137577;61.233.156.162;qkrzosek@yahoo.com
+Stanisław;Ścibisz;07032325712;6764884789;ulica Swierkowa 87/82,10-495 Mysłowice;-29.575294;126.878713;192.149.217.240;tomaszfydrych@gmail.com
+Julianna;Kurczab;61040969845;1739092815;plac Drzymały 28/72,10-921 Piekary Śląskie;86.711293;156.889232;57.176.20.144;justyna02@yahoo.com
+Klara;Mitoraj;36090253949;2192802445;plac Jana III Sobieskiego 04,96-430 Białogard;65.122821;68.915882;202.217.145.11;clapaaniela@onet.pl
+Dorota;Gapys;12301816150;9283431998;al. Pocztowa 81/07,07-416 Jastrzębie-Zdrój;2.998947;81.392162;200.151.188.152;ida25@interia.pl
+Sebastian;Larysz;12300495903;5081160436;ul. Kołłątaja 65/16,53-923 Wyszków;-64.4121095;-144.860934;212.147.195.121;marika99@hotmail.com
+Iwo;Cogiel;50112295355;5456217163;ulica Mieszka I 21,77-122 Katowice;6.5223455;15.352602;129.184.119.158;bakaaniela@yahoo.com
+Tymoteusz;Milewczyk;42070301146;2119739186;ul. Harcerska 70/56,32-209 Żagań;-61.2974795;154.078102;166.208.46.200;delugaborys@gmail.com
+Dorota;Zacharczuk;08281543221;6569814553;aleja Strumykowa 86,02-941 Chojnice;-49.2286065;126.132822;213.108.54.178;jelias@o2.pl
+Maciej;Rudowicz;12321853144;3833732303;ulica Solidarnosci 44/71,68-830 Inowrocław;4.984303;114.659844;142.24.82.30;aleks56@yahoo.com
+Kamila;Picheta;08013027311;6480233261;ulica Bolesława Krzywoustego 265,84-520 Łuków;-64.401699;-90.510885;152.221.70.247;dagmarasoczowka@onet.pl
+Tymoteusz;Tyma;58060115583;9522743526;ul. Głogowa 50/91,12-945 Łódź;5.7417005;-48.055260;75.170.221.12;mariuszgwizdek@yahoo.com
+Leon;Piotrak;85052465452;6759096807;aleja Chmielna 37,65-221 Mikołów;76.9321575;127.533779;219.251.76.181;marika19@o2.pl
+Julianna;Ceynowa;17311045301;5399658259;pl. Nałkowskiej 66/09,03-185 Środa Wielkopolska;31.5326235;109.718566;33.187.198.105;maciej04@hotmail.com
+Kornel;Gmur;46031213918;7964736947;ulica Konwaliowa 83,90-748 Ostrowiec Świętokrzyski;87.038955;106.331304;144.64.175.138;aniolamikolaj@hotmail.com
+Michał;Dudziec;88040176716;9260813489;aleja Tulipanowa 31,04-239 Radomsko;72.436128;55.838852;154.249.232.97;radoslawsykala@yahoo.com
+Janina;Łuszczak;79081373565;5293994761;ulica Pułaskiego 22,16-684 Kołobrzeg;76.665035;-169.297268;213.88.68.83;rawaksawery@yahoo.com
+Bianka;Hadała;45082052318;1616971086;aleja Kraszewskiego 16,36-056 Gdynia;63.396420;-45.027398;209.36.69.136;miloszsierota@interia.pl
+Filip;Świt;33081683134;3951241526;aleja Nałkowskiej 67/88,57-382 Jasło;-19.758899;-161.246268;202.157.201.84;danielprzewozniak@onet.pl
+Radosław;Budrewicz;26010115099;5295301437;pl. Prosta 78,34-976 Włocławek;-61.8315205;-30.676630;153.67.192.126;jakielnicole@interia.pl
+Ewa;Jas;92080857018;6680742553;plac Moniuszki 26/95,67-188 Czechowice-Dziedzice;3.119471;1.556070;88.194.190.91;dleonowicz@hotmail.com
+Bruno;Patrzałek;84122910009;6972151126;ulica Mazurska 395,65-142 Mińsk Mazowiecki;-56.483678;-164.216003;99.39.162.82;tgogacz@hotmail.com
+Sandra;Faryna;92011025709;3424793856;ulica Klasztorna 82,30-656 Toruń;39.725879;65.470738;221.116.108.208;klosiewiczmalwina@gmail.com
+Nikodem;Kandzia;41021339140;7478737623;ulica Tylna 71,29-966 Ruda Śląska;-1.413847;116.296817;86.135.168.163;ewelina61@hotmail.com
+Cezary;Picheta;97070263002;3756036996;aleja Kołłątaja 65,96-600 Gliwice;-38.687079;176.653185;177.93.41.114;krystynagrabas@gmail.com
+Ryszard;Cieniuch;89051471948;7540237784;pl. Bankowa 765,90-908 Kutno;86.6548345;-146.933802;166.7.145.140;szmajfabian@onet.pl
+Filip;Drobny;37121785923;4724642814;pl. Sienkiewicza 19/33,18-782 Tarnowskie Góry;-2.3357295;-107.559980;134.76.53.230;filip30@onet.pl
+Witold;Nastały;62030426940;8437770469;al. Łanowa 26/65,39-287 Sopot;-71.2596065;-124.520093;217.161.38.116;yszumilo@gmail.com
+Lidia;Koćwin;38102876571;6591348228;plac Torowa 62,77-729 Brzeg;76.386292;14.718181;155.255.211.117;adrian89@onet.pl
+Mariusz;Kik;96090550309;1973066756;pl. Wodna 24,14-685 Białystok;27.917240;129.649655;137.176.6.34;jeremismektala@o2.pl
+Anastazja;Spychaj;93072943043;9554049332;plac Graniczna 728,41-801 Wałbrzych;-24.8310895;119.708394;142.32.12.195;gburchardt@o2.pl
+Ryszard;Potaczek;05280325810;1519365990;ulica Nadrzeczna 603,90-902 Kościerzyna;80.0188345;-88.390433;11.39.251.123;tobiaszmalycha@hotmail.com
+Kalina;Pikor;86062288585;5411710088;plac Miła 86/69,25-390 Leszno;58.114546;80.397868;192.70.37.179;oskotobiasz@gmail.com
+Maksymilian;Parus;75091860253;9164905533;pl. Magnoliowa 92,84-637 Kłodzko;23.854485;-110.099578;167.84.165.233;vludwisiak@gmail.com
+Urszula;Lisik;53010567021;8333430748;ul. Narutowicza 25/63,81-891 Rybnik;36.0361365;-130.064844;174.247.64.10;klarasleczka@gmail.com
+Róża;Szeszko;04212472394;4392022983;pl. Srebrna 112,39-464 Koszalin;-57.6331745;102.674949;57.154.121.224;igorlupina@yahoo.com
+Mariusz;Raźniak;16090438265;6770379464;pl. Szpitalna 86,36-921 Zielona Góra;-47.1883225;91.514668;198.149.241.139;sladekmonika@onet.pl
+Julianna;Tołoczko;06292003831;8713466439;aleja Gałczynskiego 30/95,26-932 Malbork;83.249766;51.951762;151.198.226.39;maruszczakoskar@o2.pl
+Aleks;Kansy;07042768693;6827500251;ulica Mieszka I 367,80-773 Rzeszów;-31.438313;-117.051908;156.145.47.54;sieradzanemil@interia.pl
+Aurelia;Witko;61100220301;7980693109;aleja Osiedlowa 85/17,93-853 Kwidzyn;-42.024456;1.364065;94.224.209.168;apoloniamargol@interia.pl
+Leon;Gill;63090430391;7375831291;ulica Moniuszki 74/74,38-198 Kluczbork;52.707468;-106.353537;161.218.57.249;kazimierzmalz@gmail.com
+Malwina;Sobkiewicz;15273194415;6013071198;pl. Liliowa 058,88-067 Grodzisk Mazowiecki;-44.2960565;112.235540;205.60.43.176;marceldarlak@o2.pl
+Sylwia;Michel;81062908011;6957004473;al. Ciasna 17,95-323 Płock;44.939076;-18.795528;72.38.167.119;adrian19@gmail.com
+Julian;Klimko;10041469793;9579232937;al. Górna 364,98-711 Police;-26.175427;11.500351;171.205.221.31;czubajmikolaj@o2.pl
+Mateusz;Grund;49062168303;2463021608;al. Asnyka 366,60-128 Piastów;74.8082515;-74.117555;140.150.203.80;yhulboj@o2.pl
+Mieszko;Miros;46102233159;7886911111;ul. Łabędzia 06,05-630 Kościan;-23.6624725;135.179992;117.150.158.89;krystanataniel@yahoo.com
+Angelika;Stwora;53101784852;3595999211;pl. Baczynskiego 55/56,64-834 Ostrowiec Świętokrzyski;56.882498;86.890217;203.237.10.149;zinkiewiczkamila@interia.pl
+Dominik;Matejczyk;03261562380;1991495953;ulica Władysława Jagiełły 87/27,86-276 Gorlice;-34.552542;-27.463780;34.89.127.166;peksatola@onet.pl
+Radosław;Litewka;43032941509;3466062086;ul. Warszawska 41,91-549 Nowy Targ;73.661871;16.676895;11.55.69.0;zlinda@onet.pl
+Eryk;Staręga;85062675269;1440322323;aleja Szczęśliwa 17,92-319 Skierniewice;-82.1617415;-143.864681;70.42.216.209;cabalamikolaj@hotmail.com
+Gabriel;Gajowiak;16282725744;6472295371;ul. Dąbrowskiej 52/19,61-346 Biłgoraj;-74.2660015;131.953787;185.221.164.113;robert72@yahoo.com
+Kamila;Gmur;00261707656;6133007731;plac Morska 90/61,18-262 Nowy Targ;24.685272;-104.143888;205.38.28.44;adamagryta@yahoo.com
+Leon;Cebo;40052899018;8183189847;al. Makuszyńskiego 737,90-771 Września;19.8994475;153.862679;210.54.108.176;jacek22@hotmail.com
+Julianna;Malarczyk;35041186835;6044728245;aleja Brzoskwiniowa 04/10,41-694 Siemianowice Śląskie;-4.0613685;-166.104367;204.44.17.188;ryszardhamerla@o2.pl
+Ryszard;Furga;11100466087;1474728274;ulica Kasztanowa 34,08-561 Zduńska Wola;59.753392;-33.185259;203.123.60.81;ignacy29@hotmail.com
+Hubert;Wejman;46062525619;8339586492;pl. Sucharskiego 88/26,21-136 Oława;-34.555550;-79.486478;145.232.150.59;marcelprzewloka@hotmail.com
+Julian;Kielan;43092908326;7693575307;plac Myśliwska 70,73-190 Wałbrzych;51.625238;113.373071;205.49.185.132;konradjaroszuk@gmail.com
+Maria;Woszczyna;81092855972;7125982741;ul. Piastowska 659,29-873 Kluczbork;43.5736725;94.432615;221.186.45.178;pwakula@hotmail.com
+Piotr;Jachimczyk;15062188212;5036012945;ulica Hallera 711,13-637 Sandomierz;46.438327;31.103892;158.182.54.120;onazar@onet.pl
+Adrianna;Ryznar;43120950420;9122503422;ulica Tęczowa 542,67-976 Gorzów Wielkopolski;27.090881;53.545957;77.162.36.123;maks99@gmail.com
+Natan;Szwałek;16291516511;6383890362;ulica Złota 40,35-849 Piła;-82.928365;28.126980;215.146.110.108;wkwoka@onet.pl
+Kalina;Senger;69031371064;3388996365;ulica Glówna 33/92,46-278 Wołomin;-64.1353815;149.963653;209.2.115.60;adrian25@yahoo.com
+Konstanty;Kurc;07292746658;1346640823;ul. Chabrowa 71,28-511 Brodnica;37.5343165;-71.214597;211.90.183.194;fabian47@gmail.com
+Robert;Wielgos;06302345304;8242355679;ulica Szeroka 48,30-176 Nowy Sącz;-32.7085065;38.216318;160.207.96.86;maurycy16@hotmail.com
+Józef;Jaszczyszyn;82062617392;1774658342;ul. Gajowa 10,81-108 Mińsk Mazowiecki;32.845209;93.594899;87.111.241.219;niedbalbruno@interia.pl
+Artur;Domek;35121916466;5898774021;ul. Okrężna 452,23-064 Kutno;88.420419;-102.174996;202.203.104.141;wojciech62@yahoo.com
+Róża;Rzeszutko;66101892195;6720667296;ul. Kościelna 919,71-125 Skarżysko-Kamienna;48.790802;110.631334;13.173.82.10;marianna80@gmail.com
+Maksymilian;Cyrulik;00272168455;8762137227;ul. Niecała 66/58,17-002 Radom;68.9124425;-67.661522;158.170.81.6;wojniakjan@gmail.com
+Marek;Fronczyk;91063080357;4815034210;aleja Tęczowa 61,37-344 Wągrowiec;48.5932215;109.010929;190.204.214.198;romaniakkornelia@interia.pl
+Mikołaj;Cebulak;13240422983;4841831902;ulica Skośna 68,69-804 Puławy;47.310691;-68.962006;214.234.191.188;tdela@interia.pl
+Liwia;Miros;05262522701;3862702730;pl. Batalionów Chłopskich 087,75-147 Bielsk Podlaski;73.0337605;-56.954693;79.69.113.254;tkurczab@gmail.com
+Justyna;Witka;76102264934;9449313005;ul. Kielecka 22,37-420 Zambrów;0.219083;-8.537275;220.198.200.91;oskar24@hotmail.com
+Maurycy;Bareja;90072333146;2758814345;ul. Spółdzielcza 68/27,92-564 Tychy;59.650915;62.105013;20.218.194.225;borys11@interia.pl
+Alex;Kozdra;11041212336;6031642725;ulica Sportowa 456,88-666 Zakopane;19.2041785;51.277911;92.122.172.3;ulrychkajetan@gmail.com
+Nicole;Grabas;75102113088;9223826919;plac Agrestowa 45/33,14-974 Sosnowiec;85.2464325;-56.236858;59.134.154.42;daniel78@hotmail.com
+Dariusz;Falba;21323063769;5866518473;ulica Sienkiewicza 926,32-201 Katowice;-8.8095725;4.970864;194.230.28.23;natasza13@gmail.com
+Tymon;Zdobylak;33120337215;7211097661;aleja Chełmońskiego 74,25-154 Bielsko-Biała;72.360106;47.113749;129.210.38.136;ahermann@onet.pl
+Błażej;Krzan;53033146513;3655743462;plac Daszyńskiego 364,22-393 Jarosław;-22.738796;-29.677254;128.206.71.104;uzapior@o2.pl
+Sebastian;Osipowicz;96020676288;9285909978;plac Grzybowa 023,75-771 Łuków;-79.771752;169.027977;1.19.192.164;elzbieta67@onet.pl
+Maurycy;Rozmiarek;50050782319;1682761859;ul. Mickiewicza 61/56,50-575 Wejherowo;79.6350135;26.448935;131.186.131.109;albert95@o2.pl
+Bianka;Gadzina;74112754216;1567117540;ulica Willowa 88/08,24-006 Czechowice-Dziedzice;3.455447;-50.277211;134.89.230.39;sonia79@yahoo.com
+Marcin;Barankiewicz;56110286029;8122246835;al. Reja 65/09,41-522 Olsztyn;21.821931;78.688564;159.90.190.68;karinabasa@onet.pl
+Kazimierz;Szyguła;91111862564;6099753178;aleja Czereśniowa 94,04-347 Piła;18.7122185;-153.064127;128.27.39.167;andrzejszyndler@o2.pl
+Konrad;Pajda;32021596581;5986808469;plac Zamkowa 94,66-985 Krotoszyn;83.4267265;-36.158879;70.147.121.14;wmrozowicz@onet.pl
+Jerzy;Korda;72070872324;2632750334;al. Wałowa 694,90-497 Jawor;-44.393912;-45.087967;218.229.43.107;oliwier75@o2.pl
+Paweł;Handzel;28030434985;6490346742;aleja Morelowa 55/65,68-240 Starogard Gdański;45.048124;101.489711;198.185.80.213;dzidekroza@o2.pl
+Konrad;Bryja;24051740919;1567137146;plac Skrajna 460,43-540 Sandomierz;80.2159625;-101.426923;186.211.192.89;kaliciakkalina@hotmail.com
+Gustaw;Makosz;50061644749;2790743273;aleja Makowa 18/78,17-204 Ciechanów;-65.4266505;78.848695;69.244.6.206;vmadrzyk@gmail.com
+Kajetan;Przewoźniak;84070979024;2573592921;ul. Szymanowskiego 66,81-760 Suwałki;42.011477;-11.454669;206.249.114.130;hubertnurek@gmail.com
+Ada;Nazarewicz;22081812192;2388706148;al. Czereśniowa 91,15-057 Mikołów;15.6927505;91.207711;217.109.107.173;kajaprokopczyk@yahoo.com
+Dominik;Sankiewicz;50122988522;7345514309;plac Rzemieślnicza 213,34-456 Śrem;-82.844244;-34.069583;140.188.44.250;mariusz24@onet.pl
+Jan;Kulisz;48102448933;1884375177;al. Słowianska 56/83,60-442 Wałbrzych;-85.175514;-52.129014;200.77.74.47;grzeniamarcel@onet.pl
+Inga;Wietecha;04242009401;7812858969;plac Wierzbowa 48,41-319 Grodzisk Mazowiecki;-64.0959075;-166.759186;58.205.175.112;marcinkorzeniak@o2.pl
+Karina;Lewko;47112332849;7253038947;ulica Wiejska 85/53,23-476 Warszawa;7.3044115;12.691866;157.168.97.135;pbrojek@interia.pl
+Alan;Ellwart;36010395522;5483316202;plac Powstańców Śląskich 58/40,60-238 Koło;67.0473175;-167.433014;195.206.106.249;krzysztofgrabara@yahoo.com
+Mikołaj;Jas;64031599777;7652417801;pl. Zaciszna 343,64-909 Nowy Sącz;84.8912235;128.616817;56.20.63.119;kpelka@onet.pl
+Rafał;Nabiałek;66030509935;4630349953;al. Radosna 090,84-548 Bielsk Podlaski;-49.526611;-31.903084;173.118.188.236;maksymiliankonieczek@onet.pl
+Jędrzej;Gęca;33062774334;6460045898;al. Królewska 87,25-137 Toruń;-25.551300;-31.436023;142.163.239.108;stempintymoteusz@hotmail.com
+Sandra;Dziwak;12270939380;3287093182;pl. Klasztorna 71,06-201 Pabianice;12.5410635;156.560295;200.49.111.91;tdumala@gmail.com
+Nicole;Ciarka;16281748898;7334261282;ulica Orzeszkowej 282,71-888 Opole;-26.625083;-38.751303;185.151.25.112;hubertnazimek@gmail.com
+Michał;Pleban;94011861127;9453740624;pl. Handlowa 50/25,89-748 Tarnowskie Góry;-1.397365;-66.417030;186.60.239.92;wojtakcyprian@o2.pl
+Maciej;Neska;18090280958;7128761992;ul. Czereśniowa 802,68-065 Elbląg;53.285059;-97.763710;194.46.94.245;elertjanina@hotmail.com
+Rafał;Wałęsa;21282710689;5264361119;plac Piaskowa 48/60,63-391 Piekary Śląskie;-59.7259365;-97.293305;198.178.247.172;smagalastefan@interia.pl
+Dorota;Krężołek;36041065708;1471713438;ul. Powstańców Wielkopolskich 43,97-100 Świętochłowice;-28.931671;111.411092;119.19.75.190;ndudko@gmail.com
+Malwina;Liss;45100469092;1247706476;ulica Osiedlowa 352,43-660 Suwałki;18.888707;104.832622;205.10.233.4;vgmurczyk@gmail.com
+Aleks;Kidawa;88081263758;5190203096;ulica Krasickiego 473,01-221 Zamość;80.631618;116.708178;197.155.199.92;kalinapyc@interia.pl
+Tymon;Podgórny;78062714917;3997204857;ul. Popiełuszki 38,87-281 Dębica;-69.8817345;-108.058970;202.239.170.105;siciarzsebastian@o2.pl
+Roksana;Wielgo;20261046557;9630593584;al. Piekarska 987,25-359 Kościan;-78.7250495;-108.893325;174.40.173.40;elizakurcz@gmail.com
+Natasza;Soliwoda;82112597090;1258192041;ul. Batalionów Chłopskich 66/20,79-109 Legionowo;34.599483;-45.338757;9.242.72.82;olgierd13@onet.pl
+Igor;Sabała;48082520429;9685293854;aleja Leśna 300,07-023 Koło;-18.743445;71.148956;91.223.62.126;ofelus@yahoo.com
+Apolonia;Buś;35061574595;8132969156;al. Strzelecka 53/60,68-518 Siedlce;79.874121;-129.573902;194.80.51.74;rejniakida@onet.pl
+Sara;Gładka;14302374833;4874372090;aleja Pałacowa 41/94,16-889 Łowicz;-0.9236525;-94.405533;138.245.69.202;bikadam@interia.pl
+Kornelia;Hojka;38082823042;7356966481;ulica Daszyńskiego 32/22,71-462 Łowicz;29.052821;-85.152319;217.206.121.108;cezarykolata@hotmail.com
+Róża;Reichel;56121995815;7236460431;al. Jesionowa 24,84-125 Kraków;58.4232845;-25.591924;104.83.58.172;cszram@gmail.com
+Damian;Ciapa;60102754355;2512397355;plac Gałczynskiego 752,95-030 Myszków;55.1118485;-18.248882;210.52.218.170;filipfogt@onet.pl
+Leon;Misiejuk;11320445644;3150432820;ul. Piastowska 68,49-717 Oleśnica;-63.3036655;67.082181;147.111.95.182;qpolchlopek@interia.pl
+Apolonia;Mędrala;10021200097;3821181694;pl. Miodowa 677,17-652 Sandomierz;81.764401;21.517384;200.127.61.239;ikrystkowiak@yahoo.com
+Adrianna;Klus;63032462974;4177401186;ulica Krakowska 03/51,63-789 Nowa Ruda;-35.2361605;-146.402025;57.166.3.15;arkadiuszprostak@hotmail.com
+Elżbieta;Graboś;79081933923;4779737668;pl. Solidarnosci 55,20-595 Biała Podlaska;18.078236;130.545541;140.28.96.126;marekbyra@yahoo.com
+Olga;Karyś;19310923677;8463415339;ul. Piastowska 63/15,64-563 Opole;85.4401445;-40.882074;215.25.8.90;marcelczupryna@gmail.com
+Michał;Łągiewka;91041052435;6171322021;ulica Władysława Jagiełły 64,33-306 Wrocław;-18.3051135;6.609671;113.132.77.39;alex12@interia.pl
+Kaja;Stosik;74041578251;9270833134;pl. Reja 930,31-868 Zgorzelec;-26.876318;-141.676179;150.211.175.196;mcheba@onet.pl
+Igor;Dybiec;56090905967;9383075072;aleja Narcyzowa 605,56-086 Ciechanów;30.835144;-95.384815;111.27.5.85;natanektymon@onet.pl
+Jan;Materka;45080598979;5197260588;ul. Ptasia 395,34-064 Iława;-31.5033985;-94.854122;11.34.124.71;natasza83@hotmail.com
+Konstanty;Nojman;13081683266;9561224196;plac Skośna 55,02-545 Jaworzno;13.965468;-126.611218;206.132.181.93;bkrzeszowiec@onet.pl
+Maria;Wawrzynkiewicz;21032395016;8630768758;ulica Agrestowa 41,41-390 Grudziądz;16.1740095;59.465187;59.219.214.108;lidiachaber@yahoo.com
+Oliwier;Moździerz;07280669828;6558882686;al. Północna 78,34-140 Ostrowiec Świętokrzyski;-87.171496;85.669877;203.83.6.112;natasza06@yahoo.com
+Ignacy;Sochaj;06270618640;6977387081;al. Jana Pawła II 20/87,89-980 Zgierz;47.0016785;-46.136011;165.124.35.60;lchaber@gmail.com
+Wojciech;Frączkiewicz;63062108585;1681794992;plac Spokojna 92,94-590 Gniezno;-1.8190575;121.987766;128.89.150.76;igorkominiak@interia.pl
+Adam;Kacperczyk;46052806126;2011708666;plac Toruńska 33/22,86-992 Leszno;42.0229295;106.754003;87.139.217.175;nekert@o2.pl
+Leonard;Mądro;65032257495;6775225145;pl. Sawickiej 59,49-465 Zduńska Wola;78.8167865;-74.552452;115.226.58.98;cyprian32@interia.pl
+Lidia;Bodziony;12281923565;7941730059;plac Piastowska 21/15,33-014 Legionowo;-42.663909;-136.914831;163.214.208.129;konrad03@yahoo.com
+Błażej;Kiełbik;10042848731;8962945469;al. Jaskółcza 125,42-661 Wałbrzych;-78.5323995;-143.698049;156.117.26.100;hlewko@interia.pl
+Jan;Szczypek;47082429066;1189117532;al. Lelewela 844,26-302 Rzeszów;-57.0476375;72.004219;171.97.183.170;frzad@gmail.com
+Patryk;Bzdęga;20280939553;5435172231;pl. Truskawkowa 86/86,62-389 Czerwionka-Leszczyny;-48.833616;-170.980992;162.108.209.218;piwowarekmateusz@hotmail.com
+Mariusz;Lorenz;30121269187;1128167116;plac Majowa 11/93,69-567 Kościerzyna;50.157495;-6.410978;214.187.249.112;gabrielsoliwoda@gmail.com
+Stanisław;Damps;29052786492;4549908586;ul. Nadrzeczna 58/58,81-089 Reda;6.8077605;143.103092;143.23.44.208;xryczko@interia.pl
+Robert;Miszkiel;54031132874;8485535921;pl. Stawowa 85/91,97-839 Szczecin;-1.3022585;-96.222558;211.151.62.163;tomasz49@interia.pl
+Konrad;Wandzel;07300449977;7934270674;aleja Graniczna 95/44,76-345 Żywiec;-0.097202;-47.189965;158.183.149.242;trecko@interia.pl
+Miłosz;Kuzia;02212484302;7270775246;pl. Cisowa 21/73,47-883 Wałbrzych;58.2514175;23.147568;196.184.116.68;lmalisz@onet.pl
+Ewa;Duczek;48090665372;2579565150;ulica Podwale 15,47-910 Brzeg;34.6269605;162.358469;17.73.24.28;kalinaandryszczyk@yahoo.com
+Mikołaj;Utrata;16111865959;6519405574;pl. Zaciszna 22/42,51-714 Wałbrzych;-24.432511;59.966538;143.152.186.182;hsmykala@gmail.com
+Kalina;Gierach;77052745490;8493986213;pl. Chabrowa 82/75,85-784 Częstochowa;-86.1198415;-162.133231;156.213.117.110;julianosial@hotmail.com
+Anita;Bieniak;69062568866;9841797622;ulica Wysoka 26/00,76-559 Suwałki;56.1628635;-164.954441;66.167.198.220;mariuszsosnowka@o2.pl
+Maksymilian;Bak;53122988998;4597704522;al. Zielna 73/78,51-391 Wodzisław Śląski;-85.1686875;136.517664;70.82.173.23;ernestradke@gmail.com
+Klara;Karkocha;02261192209;4388996182;al. Łanowa 30,99-399 Legionowo;-36.7429445;-85.604401;62.200.90.173;slysztola@hotmail.com
+Elżbieta;Broniek;96080752397;5475545891;al. Chopina 77/15,46-827 Tarnobrzeg;-39.311902;-162.221821;98.182.80.129;natanielcuch@gmail.com
+Roksana;Gordon;33041551415;4596996468;al. Kwiatowa 15,10-176 Rzeszów;76.467468;-129.502246;153.33.207.63;klara26@gmail.com
+Bruno;Berg;10212584946;6517416332;aleja Piękna 35,25-830 Leszno;-59.436499;137.419019;24.236.155.61;maurycy74@hotmail.com
+Kaja;Zera;38080815685;9710086151;ulica Rzemieślnicza 81,43-020 Mielec;-62.990575;-55.620180;8.79.220.37;rozalia48@o2.pl
+Maria;Staśko;34071906062;5125825294;ul. Bydgoska 72,81-711 Nowy Dwór Mazowiecki;-88.702483;-136.162351;91.207.69.44;halkaigor@yahoo.com
+Norbert;Sydor;27031393291;9188551153;pl. Zielona 228,17-503 Kielce;-88.7260305;-99.198260;208.210.27.53;wojciech33@hotmail.com
+Karol;Rolak;20310286781;5528926295;pl. Kościelna 53,50-810 Skierniewice;-82.3998035;171.437194;154.73.53.46;tobiaszsapala@interia.pl
+Inga;Litewka;31091973634;5882048890;al. Ludowa 56,54-418 Biłgoraj;47.438787;0.440845;149.199.176.142;letkiewiczjedrzej@hotmail.com
+Igor;Czajor;08022372000;5416544890;aleja Kowalska 12,50-404 Pruszków;-38.4477665;-64.022139;189.226.37.119;biankabobrowicz@hotmail.com
+Franciszek;Ulrych;82100103740;8780687234;al. Zaułek 671,70-950 Nowa Ruda;86.3307255;-144.177626;180.252.130.73;sandraropiak@onet.pl
+Marianna;Pryszcz;02303095439;2695789582;al. Władysława Łokietka 76/35,51-722 Będzin;-28.506211;42.466290;218.97.31.125;tsypek@hotmail.com
+Sandra;Helman;47092417680;7454068843;plac Władysława Łokietka 44,61-205 Sochaczew;-48.882898;-57.720517;187.132.102.7;karollistwan@yahoo.com
+Wiktor;Suszka;91102013425;5817868701;ulica Przechodnia 36/73,44-025 Słupsk;-5.0462495;111.379606;1.53.196.55;jan47@gmail.com
+Mateusz;Wąsek;51122350193;2475609023;ul. Kościelna 824,29-289 Jaworzno;-55.735463;34.485717;165.124.81.192;stanislaw10@gmail.com
+Tymoteusz;Słupek;15101416928;4663354965;aleja Storczykowa 12/40,42-411 Kędzierzyn-Koźle;49.9763935;76.922418;166.195.66.252;ignacy72@hotmail.com
+Kornelia;Uzar;86060648958;2195776056;ul. Norwida 94,71-496 Marki;-35.943368;159.466839;195.231.216.205;hsuchora@yahoo.com
+Ernest;Jakubaszek;22270579420;5958775835;aleja Słowicza 375,98-498 Tarnobrzeg;-60.862911;-32.261497;156.26.12.213;palonekandrzej@yahoo.com
+Melania;Słoń;10121333242;3667986756;aleja Widokowa 17/15,92-269 Starogard Gdański;86.9255335;121.802049;218.122.61.45;surdelstefan@gmail.com
+Nela;Mućko;29092990558;1056662590;aleja Kopernika 102,41-443 Skawina;25.1708265;113.897404;9.207.109.140;szczapnela@hotmail.com
+Kamil;Szymaniuk;82030814897;1456765419;aleja Skłodowskiej-Curie 644,46-994 Ciechanów;10.9295085;92.010199;129.173.18.153;leonardholc@onet.pl
+Monika;Seta;01232230496;8238731797;aleja Mieszka I 65/08,96-469 Łomża;-29.2981695;20.385663;203.86.43.11;daniecdorota@yahoo.com
+Franciszek;Helak;65073006849;6922836075;plac Jana 33/90,79-747 Tarnowskie Góry;60.2309765;131.025477;22.56.64.218;apolonia68@onet.pl
+Gustaw;Andreasik;07310873733;1869583724;al. Wschodnia 17,04-732 Mińsk Mazowiecki;-16.892988;-113.455165;146.1.183.157;elzbieta43@o2.pl
+Łukasz;Łyczek;42100116696;7818417309;aleja Grottgera 02,51-210 Zamość;-75.8718815;136.643557;214.189.110.128;michaljuskiewicz@onet.pl
+Cyprian;Szołtysik;45121354302;5947666172;al. Magnoliowa 72,70-934 Grodzisk Mazowiecki;13.884764;108.685674;123.123.135.200;skrysik@onet.pl
+Piotr;Szwałek;87062714292;3866788823;ul. Łabędzia 87,23-013 Inowrocław;-12.9225485;-81.099827;89.94.84.254;clinda@onet.pl
+Albert;Gumienny;22301200097;3973491236;plac Ludowa 73/28,85-494 Oświęcim;-67.890307;-2.201512;106.140.90.176;adamroskosz@onet.pl
+Bartek;Bogaczyk;07120890649;6794210363;ul. Cicha 54/54,17-058 Polkowice;-56.6468175;-117.789999;223.33.212.236;bugieltomasz@yahoo.com
+Marika;Myrcik;09320807144;9939304172;plac Strumykowa 76/10,10-136 Wodzisław Śląski;72.779617;-76.073407;45.150.10.80;iwo00@gmail.com
+Natasza;Wawrzonek;97043081181;1344353195;ul. Handlowa 20/79,81-283 Tomaszów Mazowiecki;-82.8882605;68.382233;77.212.117.86;adam80@onet.pl
+Apolonia;Giel;86100276374;8624385343;ulica Bałtycka 00/09,63-210 Zakopane;29.042228;-141.252434;181.6.205.208;arkadiuszkowalowka@yahoo.com
+Roksana;Materka;04292482401;9743492689;aleja Zachodnia 69/05,14-184 Katowice;17.748348;-67.934534;148.18.154.77;folgagustaw@gmail.com
+Gaja;Dyjas;22310660002;2458905977;al. Zachodnia 11,04-297 Chełm;77.6608415;69.204718;183.90.187.74;lszulim@interia.pl
+Patryk;Pawela;80090252071;8225214404;ul. Sosnowa 28,13-888 Dąbrowa Górnicza;-61.218855;5.067487;48.147.81.234;natan01@o2.pl
+Łukasz;Dudała;77032773495;1491217441;al. Stolarska 91,05-840 Ostrów Wielkopolski;46.3612695;171.491590;141.61.17.116;karina37@gmail.com
+Lidia;Leonowicz;22282295222;5394660234;ul. Parkowa 60/15,50-040 Marki;-24.7542435;107.344707;196.41.0.111;sebastian16@hotmail.com
+Eliza;Niedźwiadek;99031364689;4215343842;al. Kolorowa 90,68-973 Lubartów;-63.319089;-34.153739;87.215.38.151;wojciech83@yahoo.com
+Leon;Materek;86083095322;6461556046;ul. Kaszubska 87,32-798 Szczytno;-2.4719035;-146.794285;215.238.211.43;gdobosiewicz@gmail.com
+Marcin;Moryc;84071688055;4245793142;ul. Średnia 861,48-814 Zduńska Wola;75.586578;-23.417787;135.177.128.175;trybusartur@hotmail.com
+Alan;Gabara;64073174589;9295873093;ulica Szpitalna 26/47,88-993 Rzeszów;-88.3425655;-177.931765;218.156.248.177;kaczankacper@gmail.com
+Dominik;Tylek;30102704810;6269060021;ulica Kaszubska 36/54,26-865 Wyszków;-4.9102115;94.838986;204.248.199.170;vhrabia@onet.pl
+Blanka;Jakóbiak;08081054132;3569571988;ul. Konopnickiej 51/53,95-470 Świnoujście;-52.664304;-108.226231;220.207.238.219;marcindumala@hotmail.com
+Łukasz;Mućko;78042926259;1388978834;plac Orkana 745,89-325 Jelenia Góra;32.282587;37.835204;144.188.122.224;alandominczak@gmail.com
+Aleksander;Kupaj;85051377574;8912403677;ulica Dworcowa 29/12,84-634 Goleniów;60.8784305;-76.243032;213.1.248.159;tadeuszdoktor@gmail.com
+Kaja;Niesporek;64122001341;8361661968;al. Sosnowa 368,56-569 Sosnowiec;74.3845765;-145.239779;154.36.252.35;kornelia79@onet.pl
+Mieszko;Cylwik;37112826365;4162404066;al. Kopernika 490,30-200 Będzin;-83.398984;2.995735;76.241.207.94;latuszektymon@o2.pl
+Natasza;Nagórka;90012690917;6614260478;ulica Szymanowskiego 59,46-894 Łaziska Górne;72.116694;125.119015;195.246.241.70;zbalik@o2.pl
+Przemysław;Konieczek;49081408002;3156637173;al. Torowa 12,10-523 Turek;-37.1620285;-12.768242;125.211.12.62;kaja73@gmail.com
+Konrad;Stoltmann;60101263483;6340647235;plac Łąkowa 677,64-378 Iława;68.804582;-155.879897;82.153.64.152;ksawerysydor@o2.pl
+Ignacy;Ochał;15042844350;6479464279;ul. Poniatowskiego 27,76-999 Białogard;-49.127854;160.557450;33.246.153.234;llampart@onet.pl
+Gaja;Gosik;66102579620;7016961131;al. Dobra 299,11-935 Nowy Targ;83.924574;-76.617357;3.239.50.108;damiantowarek@hotmail.com
+Justyna;Ochwat;96020581852;2060755625;aleja Powstańców 894,45-398 Lubin;84.772748;128.527145;96.15.99.21;cezary31@hotmail.com
+Hubert;Wacław;19251571054;2229094684;aleja Nadrzeczna 75/56,30-151 Słupsk;-26.2656885;-30.990671;29.95.223.228;jtryka@o2.pl
+Sonia;Jeka;13292319785;5912869173;al. Bema 30,49-642 Siedlce;55.983852;-167.516820;62.225.36.93;fmyrcik@yahoo.com
+Melania;Gosik;51012906871;3931692823;ulica Wiklinowa 05/83,37-754 Bytom;-50.4102245;-14.581539;78.163.30.60;mieszko57@hotmail.com
+Wojciech;Peciak;74040417126;5429480502;al. Kazimierza Wielkiego 784,26-562 Rumia;-86.1556315;-105.688324;211.202.241.97;lidiabanak@o2.pl
+Maks;Żołna;22060102137;5836105654;plac Mieszka I 723,68-760 Turek;-14.961412;-80.155961;202.222.42.55;anitagolda@interia.pl
+Kaja;Milczarczyk;28062310507;2942305568;ulica Grottgera 84,80-950 Inowrocław;-80.7832185;17.806755;102.104.246.11;fijakagnieszka@interia.pl
+Aurelia;Sadza;66062770956;7433016887;ul. Poziomkowa 79/56,40-773 Chojnice;75.0905025;-174.933090;204.67.105.242;olgierd35@interia.pl
+Marcel;Zugaj;20291206965;6999810859;al. Asnyka 428,81-833 Szczytno;-18.9395395;-114.839926;180.194.66.44;maksymilian28@hotmail.com
+Marcin;Wika;12281257835;3346845124;al. Jastrzębia 79/86,36-417 Goleniów;74.176485;-81.262767;188.104.216.222;pklysz@gmail.com
+Łukasz;Ciarka;25112542981;1988560623;ulica Sowia 57/28,98-841 Ełk;-62.951921;119.973122;153.182.198.254;hamrolpawel@onet.pl
+Marianna;Rezmer;83052415545;1669778096;al. Władysława Łokietka 90/22,22-139 Kętrzyn;88.6257425;1.032211;204.60.1.236;andrzejapostel@yahoo.com
+Ksawery;Rzońca;83082650303;4357241873;ul. Kolonia 660,25-763 Ostrów Mazowiecka;52.3258095;-45.830508;144.125.75.231;chmielakolgierd@hotmail.com
+Witold;Hermann;15080683162;8868328212;al. Topolowa 50/44,75-949 Ruda Śląska;15.808086;19.007711;134.110.40.108;marcin54@onet.pl
+Jakub;Misiuk;18062343753;9791110102;ulica Truskawkowa 382,16-114 Jawor;-60.3118215;-24.002634;207.89.110.104;borys03@o2.pl
+Mikołaj;Kulczak;02240229942;8118718400;pl. Tulipanowa 47,68-669 Siemianowice Śląskie;32.0061375;-21.058026;113.253.184.118;karol75@gmail.com
+Grzegorz;Darul;65012819174;4599817845;plac Dojazdowa 198,35-223 Otwock;-60.9342575;-87.561254;198.188.154.91;sobeloliwier@hotmail.com
+Oskar;Bareja;60101946717;3211140722;al. Korczaka 24/46,99-051 Kłodzko;-31.2883795;-118.184545;179.121.196.222;thamrol@onet.pl
+Natasza;Kordus;00240976208;8949639169;aleja Południowa 917,46-684 Swarzędz;88.338040;55.035915;148.66.239.94;olmaiwo@interia.pl
+Ryszard;Sadłocha;47040579288;3992663253;pl. Wysoka 61/60,85-435 Oława;-75.3665005;7.492605;171.182.69.29;sonia88@o2.pl
+Klara;Szmuc;47050190431;7585299833;plac Sawickiej 06,00-247 Poznań;14.824599;164.790375;219.139.91.70;ewelina26@o2.pl
+Liwia;Turczyk;10072674339;9738696478;pl. Lazurowa 085,15-736 Kościan;-78.9819935;-32.654500;148.81.161.199;wwawrzynczyk@hotmail.com
+Sandra;Celuch;14050727592;6753451727;al. Bolesława Chrobrego 83,86-885 Zabrze;-47.629149;80.519537;169.174.66.230;opasierbek@o2.pl
+Olga;Mikita;45011016109;2411356260;plac Sadowa 64,65-878 Gdynia;6.712479;7.755225;164.193.28.204;dymarczykszymon@hotmail.com
+Alan;Joszko;35062374286;3844015019;ulica Lubelska 75/82,38-823 Śrem;-13.3299635;72.337075;87.242.80.146;filipkempny@yahoo.com
+Adam;Niedźwiadek;82050225693;5940847597;ulica Klasztorna 444,60-697 Kościerzyna;-68.194219;-20.077299;213.121.240.245;eandrejczuk@interia.pl
+Adrianna;Glapiak;82122070925;2385833633;plac Norwida 26,00-479 Wodzisław Śląski;-76.4021055;125.213946;221.140.92.183;stefan36@onet.pl
+Robert;Mrotek;04272902226;9314452910;pl. Browarna 389,65-875 Mysłowice;14.4800755;-16.954710;36.24.167.91;apolonia87@interia.pl
+Kazimierz;Mućka;10012254940;1080204023;ul. Miarki 256,92-095 Świnoujście;59.743568;150.954613;97.112.102.34;norberturynowicz@interia.pl
+Konstanty;Hadaś;33012389339;6884555605;plac Tysiąclecia 30/31,37-140 Ostrów Wielkopolski;-13.891301;11.975099;150.133.140.1;janinaantonczak@hotmail.com
+Przemysław;Miara;75061126354;5821799254;pl. Wybickiego 830,38-429 Augustów;-44.508123;-47.408323;125.99.200.25;lukowiczsebastian@o2.pl
+Witold;Rejek;54111645135;6153084226;ul. Długosza 256,13-340 Ostrowiec Świętokrzyski;2.2642665;-49.664621;217.14.209.28;betlejklara@onet.pl
+Bruno;Nicewicz;29021180508;2922906425;al. Górnicza 47,43-031 Kościerzyna;32.4509145;-69.893862;129.30.254.184;olga26@onet.pl
+Anastazja;Krzyżostaniak;27101632026;1487965467;ul. Rózana 03,03-474 Rybnik;-69.0746295;-111.702432;204.130.254.222;marek96@interia.pl
+Ada;Stryjek;16110496594;4241351789;ul. Tylna 61,38-773 Świdnica;-80.398566;129.961817;198.227.155.48;justyna31@o2.pl
+Józef;Ziniewicz;04311156784;7012828576;pl. Plażowa 392,25-716 Grudziądz;-59.661506;84.755493;143.14.246.199;delugaewelina@interia.pl
+Juliusz;Gubernat;77072443772;3861585251;ul. Podwale 14,30-707 Kościan;-45.616673;-75.612333;203.187.4.91;nataniel94@gmail.com
+Sandra;Jaźwiec;53040361420;4154242726;ulica Władysława Jagiełły 242,26-547 Lubartów;66.272977;10.888811;201.17.181.251;franciszeksporek@o2.pl
+Leonard;Miękina;19261206348;4491231715;aleja Mokra 71/96,76-034 Krosno;28.971056;-145.452477;40.165.238.138;ksawerysobisz@hotmail.com
+Damian;Sajewicz;32020555008;8962050264;al. Wysoka 491,50-155 Ruda Śląska;-84.327584;-178.534665;221.91.236.167;vdudczak@interia.pl
+Witold;Palej;50120977766;7952005600;ul. Nadrzeczna 09,26-738 Legionowo;-17.734129;-118.411065;47.183.66.234;witanolaf@o2.pl
+Natan;Fleszar;44032699577;8819394396;aleja Rataja 259,32-967 Chełm;-7.9119485;6.216844;88.96.175.194;stanislaw35@gmail.com
+Justyna;Jamroży;38112877047;7168503612;ulica Niecała 95/83,58-012 Otwock;-51.3256825;-24.404553;200.7.44.193;jozefoglaza@yahoo.com
+Konstanty;Kadela;90022179909;5346651154;ulica Wróblewskiego 75/87,62-680 Zamość;73.112135;88.223032;217.117.233.236;kzoltek@o2.pl
+Grzegorz;Bas;10053064553;1983056096;pl. Jana Sobieskiego 401,07-221 Żywiec;-69.3226525;-61.991027;130.155.135.148;iwo98@onet.pl
+Julianna;Rozmiarek;27061005748;4169267514;aleja Mostowa 66/66,95-875 Starachowice;-29.2216945;-32.989885;143.193.84.196;sadlakdariusz@interia.pl
+Jeremi;Pietrusiak;14090349527;7132547176;ul. Chopina 19/41,21-285 Szczecin;23.0516655;-5.022304;221.205.58.161;kucabdaniel@o2.pl
+Kornel;Szkatuła;24011252632;6757085018;ul. Leśna 348,32-755 Chojnice;75.7356625;-159.797068;96.145.65.176;olga88@onet.pl
+Marek;Zioła;94020618356;9752353527;ulica Dworcowa 62,44-576 Żory;-1.1067935;-16.691424;158.62.80.28;meissnerkonrad@interia.pl
+Radosław;Matynia;45062981003;8366479760;ulica Pszenna 87/08,95-740 Oława;-62.9660205;110.731829;147.251.60.200;marcelinakurant@yahoo.com
+Karol;Łapaj;18043007812;4446411153;ulica Leszczynowa 595,75-832 Żyrardów;34.318891;-100.719090;209.48.121.43;iknysak@o2.pl
+Leonard;Kandora;30100937856;3397126735;ulica Zielona 79/06,91-723 Polkowice;39.4032025;120.062823;140.177.231.170;bsulich@yahoo.com
+Filip;Tlałka;46020548746;1084033340;aleja Szpitalna 080,69-067 Bolesławiec;87.619333;-2.226892;132.104.59.24;yseta@interia.pl
+Adrianna;Tworzydło;41081990048;5210786570;plac Żeromskiego 36,33-191 Gorzów Wielkopolski;-67.769206;-40.824792;212.88.6.252;stepakkamil@gmail.com
+Apolonia;Kostorz;53111195275;9953587781;pl. Graniczna 596,39-316 Ostróda;80.4675925;-12.479253;189.186.205.145;tmakos@hotmail.com
+Michał;Klucznik;03230607375;6034631610;ulica Kołłątaja 94/72,88-813 Białystok;-51.252072;-128.298394;36.107.84.193;jankowiczdariusz@hotmail.com
+Olgierd;Misztela;48120905142;5117232935;aleja Piekarska 600,79-526 Szczecinek;32.928104;-25.950045;169.243.77.196;nrzucidlo@onet.pl
+Aurelia;Węgrzynek;26070976366;4764510303;ulica Wodna 420,70-467 Zamość;-21.042090;9.849411;159.178.20.203;stanislaw48@gmail.com
+Maciej;Glaza;92031657520;7890989651;pl. Lipca 352,87-143 Zawiercie;-24.6928495;-108.336152;201.80.13.68;agnieszka85@gmail.com
+Inga;Bitner;15041929579;1785022518;ulica Bukowa 179,39-010 Chełm;72.524892;-141.144349;114.16.216.165;nowekhubert@yahoo.com
+Jerzy;Krysta;69031063611;9225359184;al. Kazimierza Wielkiego 07/44,45-688 Nowy Sącz;-74.562080;-29.990656;204.226.52.80;juliuszwaloszczyk@onet.pl
+Jakub;Wajdzik;43062908170;7841447074;pl. Bema 77/04,04-085 Wałbrzych;-37.934839;54.376929;91.118.20.61;radoslaw43@yahoo.com
+Klara;Karkut;69072338475;1912955367;plac Lawendowa 18,67-753 Ostrów Wielkopolski;66.6246105;54.748926;210.109.11.211;korneliagluszko@gmail.com
+Apolonia;Zacharczuk;11111521919;1627416810;aleja Maja 14,72-550 Kluczbork;4.209238;-108.341219;179.28.77.158;agnieszkajakubiuk@o2.pl
+Inga;Ruszel;38081018308;1798039567;aleja Klonowa 34/86,96-874 Tarnobrzeg;19.619936;-44.870260;61.230.206.209;pchaba@hotmail.com
+Maria;Goś;42111117055;6536857497;ulica Wyspiańskiego 86/25,21-828 Wodzisław Śląski;14.9926015;148.881388;196.50.73.9;brunobielat@hotmail.com
+Marianna;Heller;93040365994;1830604816;aleja Cicha 732,28-105 Pruszków;0.7117135;48.594030;158.136.8.58;jacek30@gmail.com
+Ryszard;Kozon;43072133308;4954054943;ulica Willowa 46/95,76-236 Toruń;-4.2922315;-142.524061;167.81.80.41;patrykkujawiak@yahoo.com
+Maciej;Kadela;66080705565;5412005512;al. Swierkowa 95/33,80-510 Chełm;-69.8969195;177.587978;118.99.174.6;iwoszoka@gmail.com
+Cyprian;Grymuza;57102080757;5783932342;ul. Owocowa 34/90,23-430 Piła;-60.220645;135.405202;132.86.202.60;dominikprzewozna@gmail.com
+Kamila;Koniec;17253046202;4260705030;pl. Grzybowa 940,22-254 Zambrów;7.999948;71.378280;216.216.16.40;delikatdagmara@interia.pl
+Antoni;Berendt;08071017668;5857120653;al. Środkowa 936,54-143 Bytom;40.8812865;-128.149619;31.220.6.231;xbregula@yahoo.com
+Ida;Miros;80032912308;7829378783;ul. Stawowa 38,11-802 Marki;13.2341525;91.153131;133.124.118.196;mwalusiak@hotmail.com
+Kornelia;Linkiewicz;48060372330;1951475507;al. Wiązowa 67/43,97-675 Przemyśl;-87.5043245;-75.036755;81.200.95.77;vkrata@yahoo.com
+Liwia;Wójcikiewicz;94031905030;4666174979;pl. Wodna 76,32-765 Wałbrzych;22.808426;81.763722;203.73.50.69;tobiasz13@gmail.com
+Jakub;Sygut;30022427794;5064598271;plac Kasprowicza 86/97,37-312 Skawina;10.555655;171.236268;156.68.230.250;nicoleszyndler@onet.pl
+Marcel;Chuchla;95092222449;9335761616;aleja Łączna 58,74-597 Jelenia Góra;-6.410575;-113.310943;203.228.137.165;justyna13@onet.pl
+Kalina;Ambrożewicz;66062332354;2676360932;plac Wieniawskiego 70/25,55-838 Zambrów;-6.962584;122.896554;194.136.151.48;dariusz29@hotmail.com
+Paweł;Frydrychowicz;67120857044;9942214846;ulica Diamentowa 960,99-750 Lębork;-43.676412;-32.419974;215.183.84.124;strancdariusz@hotmail.com
+Maria;Klyta;59042120492;1036836578;ul. Wyzwolenia 00/10,59-168 Piekary Śląskie;87.405453;-37.884988;208.175.59.135;oolewniczak@yahoo.com
+Tobiasz;Borczyk;28042501811;8281048964;ulica Reymonta 60,52-952 Częstochowa;-87.908273;172.529053;178.66.190.85;dominiksporysz@gmail.com
+Roksana;Jama;49020648188;3162991146;al. Nadbrzeżna 92,13-505 Włocławek;3.199729;141.584142;62.42.164.218;jakub49@yahoo.com
+Gustaw;Jerzyk;42112885090;4337549272;ulica Ściegiennego 26/88,51-356 Brodnica;-54.3619295;-89.751863;121.5.8.246;ignacy07@onet.pl
+Olga;Laszuk;86102016202;3538230163;pl. Słowackiego 998,09-999 Rumia;-78.841334;-147.341818;118.192.119.32;monika72@interia.pl
+Olaf;Lulek;41061552611;4381389237;al. Kosynierów 57,41-334 Ruda Śląska;-84.3058755;23.369946;175.170.47.34;aleksroda@onet.pl
+Aleksander;Bałazy;37011909060;1216139935;ul. Poniatowskiego 78/23,65-548 Oława;49.4904545;128.548957;123.142.221.80;tobiasz95@gmail.com
+Wojciech;Sierota;78092359001;6844142848;aleja Orkana 708,98-880 Słupsk;27.3863325;-63.531031;183.57.229.166;artur78@gmail.com
+Sonia;Gołas;45021254555;7188571864;ul. Zaciszna 76/35,87-035 Ciechanów;-16.7166065;-55.843897;16.108.179.32;colchawa@onet.pl
+Tomasz;Wyderka;13032182790;1249602516;ulica Górna 465,32-340 Radom;68.780666;-110.058534;16.239.5.21;fkopala@o2.pl
+Fryderyk;Sot;16122153399;1124192324;ul. Grzybowa 98/30,97-381 Żywiec;38.408818;-44.251945;133.163.116.76;malychatola@interia.pl
+Aleks;Praczyk;66032366934;9771993713;ulica Bydgoska 94,44-345 Łuków;76.3496595;110.123087;150.229.71.78;lpych@gmail.com
+Eliza;Mytnik;27060930517;5067249571;aleja Błękitna 95,35-920 Kętrzyn;73.6737745;-134.393083;84.155.86.211;ibyzdra@interia.pl
+Gabriel;Szpara;72030241465;7927734055;aleja Swierkowa 75,12-613 Września;14.2432475;115.995910;55.50.168.208;rompajeremi@interia.pl
+Janina;Koniec;98031588280;2874478841;ulica Porzeczkowa 02,93-568 Lubliniec;-39.230579;-66.693387;195.26.17.198;szlapkakornel@onet.pl
+Alan;Hamera;32081402084;8322199767;ul. Staszica 15/99,24-652 Rybnik;72.666790;84.280367;199.127.2.71;mszatanik@onet.pl
+Ignacy;Piegza;83011367641;6061186284;aleja Drzymały 58/93,33-812 Bochnia;-66.972232;-103.342486;209.69.1.156;ulanowiczjeremi@o2.pl
+Sandra;Beśka;55071249032;3344066545;al. Akacjowa 556,16-781 Czechowice-Dziedzice;-25.307391;-163.784612;54.202.24.88;klebbanicole@hotmail.com
+Krzysztof;Smalec;26122628795;7742191677;ulica Irysowa 29/81,35-618 Ostrowiec Świętokrzyski;64.7493575;115.418397;178.192.58.20;aroda@yahoo.com
+Oliwier;Łapaj;66110215316;9948149794;plac Dojazdowa 28,99-235 Bielsko-Biała;71.6665985;137.569946;108.237.208.67;emildudziec@interia.pl
+Monika;Zagrajek;81071518209;9922219131;pl. Wojska Polskiego 52,83-391 Lubin;64.057419;-89.896280;214.253.192.192;neskaolga@o2.pl
+Piotr;Krzosek;48102733974;4651091796;ul. Jeziorna 61,61-229 Bielawa;25.718560;-86.414948;61.187.164.113;adamnowotka@interia.pl
+Kaja;Kanarek;41091809068;1470601708;ulica Kopernika 97/16,33-723 Oświęcim;-50.399982;161.760685;210.213.60.219;skalikmieszko@yahoo.com
+Natasza;Darul;83071478839;8264520909;ul. Nadrzeczna 68,24-733 Koło;39.150855;-118.418386;110.139.166.194;konradkalota@hotmail.com
+Alex;Ślebioda;14272542731;6553901261;plac Kolonia 281,40-352 Radom;56.755496;-110.276036;31.88.220.203;ntrzmiel@o2.pl
+Marek;Kuźnia;89022062173;9495758190;al. Zbożowa 85,50-555 Tarnobrzeg;-55.4564095;-40.565925;173.232.36.109;skik@hotmail.com
+Dagmara;Kluczyk;39072003046;6030544280;pl. Wałowa 05/53,46-073 Elbląg;17.9442905;-46.861500;108.92.44.148;pogorzelecjulita@hotmail.com
+Kamil;Herda;29060510128;1098558199;plac Wierzbowa 79/54,02-520 Brodnica;-22.348117;117.186349;214.240.117.164;alexstanislawczyk@o2.pl
+Sonia;Korta;92060806201;5720004916;plac Jaskółcza 357,32-362 Police;34.399765;75.184720;198.61.207.191;ywendt@onet.pl
+Michał;Cebo;40051515812;7945004479;ulica Wiosenna 805,96-436 Zabrze;9.168410;136.977624;111.94.127.240;hdabrowka@interia.pl
+Malwina;Wójs;68040460444;6553737867;aleja Morska 81/12,55-366 Giżycko;58.994647;-35.215761;207.187.9.235;aleks01@yahoo.com
+Marcel;Tatarczyk;01321428481;4647354798;ul. Niepodległości 89/48,93-319 Bełchatów;53.7391795;46.585101;179.237.80.158;aleksanderpochopien@hotmail.com
+Nikodem;Zacharek;99092010264;2196330291;pl. Chopina 84,33-026 Brzeg;79.5717265;-69.425924;201.133.184.191;eryk28@onet.pl
+Ida;Niebudek;34041055602;5387889674;plac Wiejska 59,40-059 Jarocin;42.5203285;36.514252;96.247.34.203;krzysztof20@hotmail.com
+Aleksander;Musiała;36031929863;5947822471;ulica Jarzębinowa 01,88-101 Chełm;19.9592845;171.646261;69.42.194.17;ingakiedrowicz@hotmail.com
+Tomasz;Wołoch;20051143592;4729163573;ulica Starowiejska 850,14-500 Marki;-42.314681;-53.425214;49.11.41.148;gkomsta@gmail.com
+Leonard;Siciarz;95091082536;1546188090;pl. Mazowiecka 48,06-556 Ostrołęka;34.179908;87.029689;184.42.20.217;nhanus@o2.pl
+Jeremi;Obiała;42072339844;2163657644;ulica Baczynskiego 68/48,12-931 Wieluń;-68.422869;-14.962860;6.8.131.181;lewtadeusz@onet.pl
+Stefan;Kij;59080288293;1157763766;aleja Matejki 09,95-416 Poznań;-29.721482;-32.371299;46.73.11.108;grzegorz53@onet.pl
+Jerzy;Iwańczyk;27052692094;4155437550;ulica Wodna 36,99-198 Stalowa Wola;-11.6449515;-175.559433;193.171.29.22;pduczmal@gmail.com
+Marek;Grochowina;64070670897;5055179451;pl. Średnia 99/98,09-323 Szczecinek;-44.8497775;10.761992;100.135.123.242;szczotkaja@o2.pl
+Ignacy;Klinkosz;39121215938;6460635803;al. Narcyzowa 75,90-464 Rybnik;31.556444;-87.817254;66.216.197.142;trokagrzegorz@interia.pl
+Ida;Matwiejczyk;64091663775;5648003682;ul. Piwna 45,27-279 Świebodzice;2.111869;144.819168;95.253.189.67;mprzybycien@hotmail.com
+Tadeusz;Szymajda;63071597826;2323909357;pl. Źródlana 595,26-452 Piła;5.140855;-1.972976;175.207.60.50;lakotamarcelina@hotmail.com
+Mariusz;Kulis;89072612106;8822566654;plac Zdrojowa 509,68-189 Sochaczew;72.017357;77.736199;200.104.142.155;cyrekmieszko@o2.pl
+Bartek;Jakimiak;43091004450;7324015943;ulica Klonowa 27,31-535 Poznań;24.5918165;-64.552041;70.62.62.233;sudnikwojciech@interia.pl
+Bianka;Raźny;32092755397;9883418150;pl. Azaliowa 975,60-437 Bytom;67.028030;-145.871371;209.133.206.147;marek28@gmail.com
+Tola;Pela;72061570282;9636900567;ul. Piekarska 808,50-356 Żywiec;76.044535;95.044430;196.37.193.221;klosowicznataniel@interia.pl
+Liwia;Sus;08090715897;9957515353;ulica Jaworowa 99,34-398 Zduńska Wola;86.992600;-41.014328;207.184.137.209;anastazjamironiuk@interia.pl
+Marika;Capała;28043021743;9592672990;pl. Wspólna 677,35-114 Krosno;8.5314335;74.722215;214.79.105.33;mgronkiewicz@interia.pl
+Igor;Misior;51120687918;8145332231;pl. Wierzbowa 151,52-562 Włocławek;28.7013815;-134.239045;163.193.19.79;szycaartur@interia.pl
+Piotr;Kucharzyk;65030933496;3546787199;ul. Kopernika 63,09-102 Piaseczno;-55.315340;41.710758;35.192.24.139;dbrach@o2.pl
+Mikołaj;Minkina;83121009914;2356012135;al. Jaworowa 223,65-842 Łódź;-9.616921;-43.270222;122.23.216.105;grosmarek@gmail.com
+Bianka;Karyś;21231183786;4929931746;ul. Podleśna 28,34-913 Piaseczno;-42.141936;-18.713996;207.84.125.46;oskarkuba@yahoo.com
+Tymon;Kunysz;02222213659;6722657758;ul. Radosna 17,83-364 Leszno;28.026061;-54.614421;83.225.18.165;iwo08@o2.pl
+Cezary;Gadzina;73102832125;1466889821;aleja Krasickiego 119,29-891 Jarocin;56.668183;153.976340;177.52.17.40;kacper31@yahoo.com
+Eryk;Matejczyk;85012569190;6127046815;al. Stefana Batorego 75/50,33-218 Żagań;60.454527;-115.499029;213.131.142.142;ukopa@o2.pl
+Agnieszka;Kochel;10041505064;1676647395;al. Sikorskiego 976,49-769 Ostrów Mazowiecka;72.8732055;134.942456;123.250.162.37;cbik@gmail.com
+Mateusz;Świętoń;21111341354;1761698316;plac Piłsudskiego 19,57-930 Kraków;-82.487696;-153.369521;213.170.73.207;kukielaada@o2.pl
+Ewelina;Supernak;33080927897;6952961655;plac Sikorskiego 47/99,47-048 Skierniewice;73.102647;-27.648378;187.148.92.193;anita07@yahoo.com
+Tomasz;Tarach;87122694960;8470526560;pl. Piastowska 809,32-708 Mysłowice;-79.9345765;-12.355197;211.147.238.144;bwojak@onet.pl
+Krzysztof;Gral;76101910010;7467776128;al. Klasztorna 22/18,01-997 Świdnik;-58.403729;97.196318;167.154.66.213;radoslawsrokosz@yahoo.com
+Karol;Głuszko;09321408566;1657117851;pl. Turkusowa 76,61-384 Wieluń;82.1111325;-179.249323;175.245.152.51;liwiagoliasz@hotmail.com
+Leonard;Łaszczyk;24111265372;2185580854;plac Lipca 83,94-718 Oświęcim;13.740644;135.390807;199.23.61.18;pjamroz@yahoo.com
+Karina;Osipowicz;98072734646;6258706459;al. Cegielniana 09/98,42-588 Rzeszów;-83.5911715;-121.007493;160.244.150.83;adam19@yahoo.com
+Maciej;Prygiel;02302320602;4718584348;aleja Wróblewskiego 851,00-585 Zabrze;-41.3432395;-56.432850;206.131.37.107;ufrelek@hotmail.com
+Juliusz;Wojsław;31120164299;1217011456;ul. Piłsudskiego 352,88-928 Bełchatów;-46.8764965;131.029364;192.176.216.238;ksawery87@hotmail.com
+Kazimierz;Smektała;22122222588;6084579107;al. Miłosza 55/50,37-738 Zawiercie;-65.0850785;-161.019729;156.132.161.67;obartoszak@gmail.com
+Julianna;Klemens;07292256151;5496689649;al. Kossaka 40,27-701 Zduńska Wola;6.659347;98.577020;185.242.245.168;mieszkokozlowicz@interia.pl
+Marika;Latko;45102005267;2356047978;pl. Fiołkowa 78,57-613 Pruszcz Gdański;17.3278235;17.786757;183.2.191.116;gradekszymon@yahoo.com
+Janina;Złotek;81011591750;6887056601;ulica Piękna 75/59,63-321 Nowa Sól;87.395574;65.299736;200.247.165.41;zieciaknatan@yahoo.com
+Franciszek;Rembisz;59041685163;7762413804;pl. Mostowa 62,53-380 Płock;20.2458565;39.791154;193.192.155.139;esuperson@yahoo.com
+Tomasz;Czuryło;22291623441;7954981970;al. Wiosenna 15/59,78-614 Chrzanów;-20.6221825;-142.214332;221.14.253.118;pastuszkomarianna@onet.pl
+Grzegorz;Kuder;41013098471;5863327583;ul. Pszenna 95,75-960 Rumia;11.5860425;63.488273;157.118.253.248;ssiewert@interia.pl
+Adrianna;Murat;26052373688;3891045944;ul. Osiedlowa 22/32,20-224 Jasło;63.3124915;-157.414067;171.191.109.174;uwojcik@yahoo.com
+Jacek;Bobrowicz;31031190178;5870577559;aleja Tysiąclecia 51,54-420 Kraśnik;60.072811;34.898930;152.52.118.49;piotr51@o2.pl
+Kalina;Kajdan;07021397951;5659590967;aleja Fabryczna 893,49-925 Tomaszów Mazowiecki;-51.1994265;-179.780825;33.75.152.129;alan04@yahoo.com
+Ewa;Linke;87060300114;6158595397;al. Słonecznikowa 398,50-154 Nowa Ruda;-24.0214605;-167.071753;215.113.91.96;tadeusz60@onet.pl
+Monika;Sygut;57082433338;3015775832;ul. Wyszyńskiego 64/16,90-446 Zambrów;45.826742;161.076900;193.69.140.64;michalkiewiczleon@interia.pl
+Janina;Kijanka;06270212271;3381282007;pl. Nowowiejska 68/66,29-777 Polkowice;-7.2894485;-100.257123;212.232.162.85;kopiczkoanna-maria@o2.pl
+Justyna;Fal;16042830336;5540829905;pl. Stawowa 12,02-554 Jarosław;-16.648436;-136.302646;211.146.95.110;eryk55@o2.pl
+Radosław;Podpora;45012597825;5524023389;aleja Morcinka 98/27,54-088 Świnoujście;76.9060975;-127.858469;158.234.132.97;lworoch@gmail.com
+Gabriel;Noculak;73100857791;9147611674;aleja Kazimierza Wielkiego 176,16-530 Katowice;-45.4059225;57.205680;26.28.100.44;albert53@onet.pl
+Olgierd;Mesjasz;30022800898;2070152377;ul. Chełmońskiego 21,54-200 Ostrów Mazowiecka;32.105430;-109.042014;116.42.91.144;monika36@o2.pl
+Rozalia;Rajczak;13020411844;1052941264;pl. Cedrowa 427,67-124 Krotoszyn;-23.439675;-73.829653;219.34.235.197;sopatadaniel@hotmail.com
+Nela;Wąsala;25081820330;1778177467;ul. Kazimierza Wielkiego 42/24,11-125 Jasło;32.682750;-160.497135;109.241.98.4;woszczynafabian@hotmail.com
+Liwia;Chachuła;08270174889;8774797886;plac Jastrzębia 02,04-929 Ostróda;70.305806;-78.396034;124.123.7.236;kolatajulianna@interia.pl
+Dominik;Chruszcz;45020149469;8267010907;al. Jeziorna 30,55-706 Białogard;-21.328541;-72.612890;110.111.148.167;dagmara33@interia.pl
+Błażej;Heller;74061885506;7572490204;aleja Piłsudskiego 51,84-938 Łowicz;13.4854955;150.958526;138.39.171.136;ziniewicznatasza@onet.pl
+Błażej;Karwan;16281449362;2586986645;aleja Wyspiańskiego 551,32-636 Turek;32.900178;-169.655619;24.198.184.212;leon73@onet.pl
+Bianka;Ignatiuk;21110576230;6195641789;ulica Stolarska 71/03,82-216 Świecie;-27.816840;6.439081;85.225.7.217;borys11@yahoo.com
+Robert;Muniak;10292651222;4139773879;al. Sawickiej 018,61-517 Bolesławiec;-34.569016;-112.602179;153.115.228.156;gkujawiak@onet.pl
+Jeremi;Gal;90100332662;5758850443;ul. Żwirki i Wigury 00,83-626 Jasło;-86.4521235;114.502482;60.165.162.70;albert01@o2.pl
+Kacper;Misztela;20302512722;9463723308;ulica Bolesława Krzywoustego 02/83,80-555 Mikołów;73.934245;-176.319151;201.227.236.26;cierpiszignacy@o2.pl
+Kacper;Plich;12281642170;2283158725;al. Orla 77/82,04-252 Rzeszów;-31.8052915;34.226150;96.215.143.141;anastazja99@hotmail.com
+Anita;Merda;47052867870;3232563758;ulica Norwida 55/20,52-029 Kraśnik;-71.7988415;-68.226818;180.96.44.13;kozienoskar@hotmail.com
+Dominik;Wałęsa;27020392108;5919851785;pl. Mała 949,27-320 Dzierżoniów;82.608134;118.824666;182.99.203.182;soltanjuliusz@interia.pl
+Marek;Cymer;93022563312;3644111379;ul. Lawendowa 524,71-809 Toruń;-34.673661;13.457417;12.39.158.215;wojtiuktola@gmail.com
+Nela;Walocha;94062735631;6884284365;al. Stroma 90,37-612 Police;10.1196255;-6.215333;44.128.221.35;kusztalliwia@yahoo.com
+Jeremi;Miękus;45052511676;7158375147;aleja Kreta 409,90-168 Kwidzyn;-64.650797;91.341567;61.13.92.204;dagmara21@hotmail.com
+Bartek;Chwalisz;83012408695;4895823729;ulica Kusocińskiego 084,91-079 Konin;-20.6596535;45.272286;195.193.165.202;pyzaandrzej@onet.pl
+Oliwier;Roskosz;05231992401;3130768161;ulica Czereśniowa 317,37-678 Mława;7.778368;48.934389;98.33.76.202;uarendarczyk@interia.pl
+Olaf;Kolonko;19072195617;1482993312;plac Pałacowa 78,64-134 Swarzędz;-66.7487445;120.119831;181.207.62.79;fryderyk70@yahoo.com
+Marek;Rompa;31011332761;7329847128;ul. Podwale 35/18,49-973 Radom;31.9643615;-128.686030;220.137.123.248;nfranc@onet.pl
+Apolonia;Dydak;15272486478;3959366144;pl. Ptasia 91/17,43-093 Ełk;-58.6412295;9.447727;27.151.112.97;kazimierz71@interia.pl
+Bruno;Pianka;37121236719;7642203895;aleja Jana Pawła II 679,38-209 Iława;-69.256378;-8.609341;23.233.169.191;milosz01@gmail.com
+Kazimierz;Rajczak;18242428739;9750813918;al. Spacerowa 805,86-040 Lublin;9.9373005;-51.593149;47.46.11.226;ewa51@gmail.com
+Urszula;Nazar;46080355823;6035563678;ulica Hutnicza 396,95-996 Głogów;60.0675755;-170.879343;25.230.110.71;mlodzikfabian@gmail.com
+Arkadiusz;Ciesielczyk;38080118436;2432386562;ulica Bolesława Krzywoustego 394,79-319 Oświęcim;76.030673;-75.845496;196.11.7.58;malwinaploskonka@interia.pl
+Fabian;Wąsek;93082197399;4922298197;plac Jaworowa 27/94,58-111 Piekary Śląskie;-24.8900905;-84.715941;197.48.205.28;juliuszkosiec@gmail.com
+Błażej;Olko;64061392366;9752956295;al. Koralowa 906,38-734 Wrocław;52.2125395;43.166962;178.180.14.100;belzkacper@onet.pl
+Roksana;Orwat;64011914927;6825788466;pl. Narutowicza 50,21-546 Ostrowiec Świętokrzyski;56.495779;-46.462167;222.216.198.137;pgodzisz@yahoo.com
+Jeremi;Kuciel;77022355263;7951317390;al. Plater 58/81,49-573 Stalowa Wola;87.645741;50.178926;205.138.94.161;leonardsiudek@yahoo.com
+Anastazja;Roskosz;25061011385;4475788825;pl. Konopnickiej 39/64,37-215 Piekary Śląskie;-44.720412;-177.504211;84.71.181.60;fabian10@onet.pl
+Marika;Ryguła;65032495178;4853411459;ulica Cisowa 10,65-614 Częstochowa;60.071157;-114.265652;81.170.154.71;gustawtrepczyk@hotmail.com
+Natan;Lampart;37082762889;3374191806;al. Środkowa 11,27-883 Nysa;12.3713655;166.415453;125.218.242.181;bianka26@o2.pl
+Kajetan;Bodek;91021830462;3211345223;pl. Rycerska 85/33,77-911 Krotoszyn;-55.019622;-75.513397;193.93.192.73;straszakolaf@hotmail.com
+Przemysław;Malisz;12232130075;3187622965;al. Popiełuszki 29,51-406 Łowicz;89.812179;100.997429;198.45.114.190;czlonkalukasz@gmail.com
+Mikołaj;Luberda;77071036775;7578779259;aleja Stroma 16,96-067 Bochnia;58.8208615;-3.129020;188.164.59.79;antonikoman@hotmail.com
+Ernest;Toborek;88020137508;9432473804;aleja Narcyzowa 73,51-644 Zgorzelec;-82.3541635;112.431264;47.81.237.207;soliwodainga@gmail.com
+Stanisław;Such;21230157225;6666796340;plac Tylna 13,09-156 Skarżysko-Kamienna;-63.0383725;57.400891;153.224.246.28;natasza25@interia.pl
+Przemysław;Borzym;94081497671;8738331960;plac Polna 088,30-720 Legnica;-42.708147;32.868360;198.162.77.59;namyslopiotr@interia.pl
+Aniela;Burchard;31012050749;5955748915;aleja Narutowicza 770,35-081 Ciechanów;75.871303;162.993886;211.210.212.247;daniel01@yahoo.com
+Sylwia;Orawiec;27082977974;8592835701;plac Dojazdowa 253,30-529 Sandomierz;-77.464804;135.011315;202.99.39.149;dagmaramatejuk@hotmail.com
+Gustaw;Borzych;79030258402;3151760667;aleja Kościuszki 88,87-150 Ciechanów;75.932900;32.947239;195.8.202.199;natanwaldoch@interia.pl
+Klara;Kiełbik;85041275994;7277720082;ul. Bema 258,03-649 Elbląg;18.4463405;78.791653;216.44.109.68;mambrozewicz@gmail.com
+Angelika;Domian;83102970176;3631237210;plac Jabłoniowa 70/93,99-885 Wołomin;-47.270993;-57.889884;141.6.87.180;anastazjakleinschmidt@gmail.com
+Tadeusz;Gruza;46040976057;5979737283;plac Truskawkowa 01,71-951 Mława;-62.5037545;-124.704094;214.243.205.161;olaf81@hotmail.com
+Marcel;Nojek;08291445784;5820824493;pl. Czarnieckiego 71/67,61-334 Rzeszów;6.649879;-146.149392;101.255.126.122;janders@onet.pl
+Alan;Mila;92011117927;1288366379;pl. Akacjowa 343,55-376 Kielce;-87.7968375;42.544703;69.220.163.2;solekadam@interia.pl
+Aurelia;Reiter;72031081189;5837076647;al. Andersa 12,25-173 Kłodzko;31.6184925;40.945763;161.158.208.170;anna-mariawyrobek@interia.pl
+Jacek;Hadam;34101885170;8599199160;aleja Solidarnosci 52,60-774 Koszalin;72.201040;157.808770;210.10.79.81;sebastian08@interia.pl
+Urszula;Lemanowicz;31062614779;9381223746;aleja Odrzańska 683,77-560 Turek;-45.5796105;-77.282614;209.54.91.51;konrad66@yahoo.com
+Bianka;Helman;56091424706;9183755997;ul. Powstańców Śląskich 700,51-904 Brodnica;79.158987;37.207845;205.154.253.112;btylec@hotmail.com
+Janina;Tasarz;08092407350;2092625245;ul. Śląska 50/63,90-614 Gdańsk;54.516994;28.976101;150.182.142.152;ewazynda@interia.pl
+Malwina;Małas;64032257603;9968881280;al. Jaworowa 43/50,12-156 Lublin;-46.640225;-71.951839;211.108.211.198;garbacikoskar@onet.pl
+Michał;Krzyk;00211677891;5951935939;ul. Przemysłowa 19/59,08-743 Sanok;22.5949705;-129.893776;197.233.156.104;muckasylwia@gmail.com
+Natasza;Krajniak;27060885442;4745790856;ul. Parkowa 449,53-029 Jelenia Góra;-14.1823905;153.273628;223.62.144.200;iwoniecko@yahoo.com
+Justyna;Czermak;11061851768;4133832173;aleja Jodłowa 18,58-991 Gorzów Wielkopolski;-67.9892515;-153.514240;187.106.31.202;qsenator@yahoo.com
+Bianka;Kaczmar;19292362693;5762562288;plac Krasickiego 09/22,37-092 Mysłowice;87.378355;145.117295;113.131.38.235;ulfikanita@o2.pl
+Juliusz;Staniewicz;82120330933;6067343738;ul. Łanowa 71/05,62-601 Grudziądz;-88.5497175;26.330964;147.189.193.105;juszczukaurelia@gmail.com
+Nicole;Rudyk;89101376265;8857504800;pl. Podleśna 973,51-788 Wrocław;-29.802259;-135.351383;185.66.65.225;dplewnia@hotmail.com
+Adrianna;Antoszczyk;88041069787;2725279361;plac Paderewskiego 96,21-594 Elbląg;44.4237255;59.625270;95.82.19.130;dzikaadrian@interia.pl
+Witold;Kuska;46110559254;7836240732;pl. Słowicza 413,42-888 Chrzanów;68.146327;166.210748;54.40.37.222;zachwiejadamian@o2.pl
+Julianna;Godzisz;56032954055;9736592059;pl. Tysiąclecia 313,06-533 Myszków;86.428879;15.552647;216.129.153.54;marcelina58@gmail.com
+Kalina;Wołkowicz;68081096789;1414461896;ul. Południowa 965,68-758 Sochaczew;-52.9078425;41.075389;218.225.167.109;akorzonek@gmail.com
+Ignacy;Golan;28011754408;6283438289;plac Szkolna 179,86-082 Ostrów Mazowiecka;-49.3771985;-6.861470;128.157.43.152;marcelina47@onet.pl
+Patryk;Tolak;31073108904;2941802684;pl. Błękitna 57/92,13-484 Płońsk;-19.273036;-83.032872;182.173.164.181;zagulamilosz@onet.pl
+Kalina;Krzywoń;07310542152;7541194396;al. Poprzeczna 104,84-443 Zakopane;-51.003618;-43.581181;64.200.61.77;nela39@o2.pl
+Maksymilian;Sadlak;07061551418;7824059582;ulica Szeroka 349,25-695 Reda;20.136926;-137.125817;166.42.233.66;olgabracha@hotmail.com
+Elżbieta;Penkala;10322147455;9898686655;plac Słonecznikowa 423,80-047 Świnoujście;21.5343295;-25.632768;220.201.123.239;odrobny@hotmail.com
+Inga;Młodzik;62041642199;1679607781;pl. Wrocławska 50/28,58-826 Brodnica;22.9111135;178.337599;150.163.182.110;konstantydurys@hotmail.com
+Sara;Kruszka;45080215469;9442645402;ul. Górna 223,83-682 Sieradz;-69.0976145;155.518204;120.58.254.89;maciej32@o2.pl
+Ryszard;Kaczka;79031078977;8258609616;aleja Bukowa 71/32,34-020 Bydgoszcz;-71.201468;104.364798;220.7.213.10;calcezary@hotmail.com
+Cezary;Dryka;23030696960;1627426346;al. Lipowa 356,51-189 Elbląg;-31.4314955;-7.621915;149.207.215.99;pilkagaja@onet.pl
+Melania;Duszkiewicz;01292458339;9137199226;al. Pocztowa 31,92-991 Opole;-57.662480;-177.370890;205.99.201.220;liwia80@interia.pl
+Adrianna;Hajda;13320536445;7491404614;pl. Wiśniowa 14/69,76-045 Poznań;65.485298;-86.772979;206.163.180.255;jedrzej21@hotmail.com
+Robert;Dering;12051696378;6034027216;ul. Mazurska 693,76-342 Skarżysko-Kamienna;88.432001;-41.955273;138.46.179.84;dobronjeremi@gmail.com
+Anita;Szmaj;06300150379;9513555877;pl. Bydgoska 642,61-794 Jelenia Góra;-53.722122;-143.644078;192.41.113.231;kawiakjuliusz@onet.pl
+Kaja;Chruszcz;33052531914;1077307799;al. Krokusowa 651,88-686 Reda;55.960337;-145.777029;150.155.26.152;olgierd85@yahoo.com
+Hubert;Bąbol;17312282495;3366620032;al. Pałacowa 09/95,32-197 Oleśnica;-30.888988;176.778843;83.227.123.64;startekdagmara@hotmail.com
+Kamil;Jarczyk;04270272855;7859826128;aleja Gajowa 63,48-956 Opole;-76.3988095;63.578133;148.60.113.71;olgierd84@hotmail.com
+Marek;Kultys;25071190911;3549663440;ul. Jana 45,25-709 Lubartów;-52.7746415;124.340860;206.122.187.160;damiankoperek@gmail.com
+Maksymilian;Bejnarowicz;63081505248;5961833583;plac Plażowa 04,10-747 Police;82.957360;172.489666;139.183.109.110;ignacykozuszek@onet.pl
+Albert;Wygoda;27102343882;5236459970;plac Mokra 39/34,21-728 Ząbki;-65.199976;94.275345;141.170.83.248;bronkamilosz@hotmail.com
+Nataniel;Boba;92032535227;7143433714;aleja Piękna 00/18,64-790 Chojnice;-5.3095125;7.403048;151.249.218.226;aniela77@gmail.com
+Sebastian;Darłak;78101653889;4251950758;ulica Południowa 33/50,15-600 Łódź;-14.0095025;-177.260974;151.119.230.178;korniakgaja@o2.pl
+Szymon;Lepak;12232776051;6873232152;aleja Rózana 19,44-162 Kędzierzyn-Koźle;42.347999;-99.661261;205.243.119.122;misztelawitold@hotmail.com
+Sonia;Dworczak;22262907439;6284572239;aleja Wysoka 624,56-472 Białystok;-57.5775735;127.971303;13.121.25.15;askotarek@o2.pl
+Krystyna;Szarpak;99051361756;4618614593;ul. Jabłoniowa 13/40,58-860 Zambrów;-40.031894;-97.022327;188.204.109.19;krystyna15@interia.pl
+Aleks;Sot;46051305183;4884709013;ulica Dworcowa 648,31-767 Turek;19.699665;150.994006;60.141.216.254;nela10@o2.pl
+Aleks;Wiertel;21081674481;8187102381;ul. Wiklinowa 86,73-574 Legionowo;-10.942034;10.748359;106.229.189.42;slupekksawery@onet.pl
+Maria;Hein;61082575251;7943701872;pl. Przechodnia 64,72-153 Środa Wielkopolska;44.858456;171.533464;101.111.37.64;kbres@onet.pl
+Jędrzej;Żołnierczyk;85032323176;9639128216;al. Królewska 822,92-731 Lublin;49.730127;95.258358;136.98.23.87;buszkorafal@interia.pl
+Paweł;Buława;88032889497;3012642711;plac Lawendowa 42,67-837 Szczecinek;32.616109;-95.534051;151.0.186.103;lidiasochaj@hotmail.com
+Olaf;Lewicz;84022334233;2477270155;aleja Bociania 82/43,48-850 Pruszcz Gdański;-49.981368;177.110273;145.189.70.169;sibigaanastazja@onet.pl
+Olaf;Tasarz;35012153808;9979501128;plac Tylna 496,24-545 Jelenia Góra;-66.9917995;-87.498371;222.108.173.184;boryscacko@hotmail.com
+Monika;Drej;62121482495;8216847251;pl. Słoneczna 422,85-107 Gorlice;73.4915315;4.648725;50.82.94.70;nikodem12@hotmail.com
+Nela;Miętus;77080135155;6485590215;aleja Wypoczynkowa 11/22,05-388 Kędzierzyn-Koźle;67.4754345;-177.646451;108.223.201.40;wojewodzickalina@interia.pl
+Urszula;Kaczmar;28053193263;8899760956;ulica Rumiankowa 42,75-581 Sopot;-71.6867025;-141.572170;188.11.130.100;zagrodniknatan@yahoo.com
+Róża;Żołna;47041116332;4422331425;ul. Letniskowa 27,00-239 Wejherowo;-38.207360;-23.753791;218.191.212.191;przemyslaw39@o2.pl
+Konrad;Sałuda;05322284631;7341461697;ulica Pogodna 469,21-479 Gorzów Wielkopolski;-2.063337;144.608252;64.78.239.171;bartek49@interia.pl
+Eliza;Ciuła;11322351590;3233249751;ul. Dworcowa 36/33,99-638 Kołobrzeg;51.6545125;175.777463;193.243.41.238;lkosak@gmail.com
+Witold;Sado;45011803376;2420136285;plac Majowa 321,54-413 Mysłowice;-72.653606;81.042202;211.4.219.238;drobikmarcin@hotmail.com
+Klara;Pierzak;02270898275;3986104891;ul. Żytnia 18/43,84-911 Koszalin;23.438271;-6.577877;193.167.209.109;dyniaryszard@hotmail.com
+Ewelina;Jędra;14021226608;8529672042;pl. Klonowa 540,66-562 Kościerzyna;-0.5448975;-93.223607;207.106.29.240;lateklukasz@yahoo.com
+Aleks;Łyskawa;10080980417;1232946814;al. Partyzantów 112,43-442 Łomża;-45.5080135;-44.017337;52.143.103.229;mlynczakmateusz@interia.pl
+Grzegorz;Skrzecz;27061378033;5616511056;plac Stawowa 53,54-860 Lubin;62.831097;-57.042062;192.51.220.141;inga46@onet.pl
+Tadeusz;Buczma;13032718872;2589702105;plac Północna 65,95-370 Świętochłowice;55.381303;144.440780;36.18.72.84;tomaszczosnyka@yahoo.com
+Blanka;Komsta;40020595142;7777976117;plac Kopernika 027,73-665 Włocławek;18.6208485;129.645855;11.162.240.33;jaszczjulian@onet.pl
+Mikołaj;Szłapka;92092646552;5977562359;pl. Maczka 81/05,98-642 Wołomin;-32.043690;177.597413;44.46.34.189;nelawiza@interia.pl
+Fabian;Engler;88033089216;6788378187;ul. Wąska 458,48-672 Pszczyna;-5.7324825;-92.204254;56.151.59.64;roza06@hotmail.com
+Jędrzej;Linka;23062144297;8358083906;ul. Północna 094,53-976 Radom;-61.521028;151.264681;201.206.139.242;lidia46@gmail.com
+Kamila;Groń;20060345965;4220448905;aleja Sowia 431,73-940 Wrocław;-49.2628205;-140.786201;75.243.206.94;patrykgregorowicz@hotmail.com
+Anastazja;Minkina;22312810993;8673874183;plac Górnicza 95/15,17-912 Kraków;48.408250;12.628827;189.23.153.20;zpolom@onet.pl
+Miłosz;Pacura;74101377217;7751921075;aleja Tuwima 492,83-379 Łódź;28.683013;-92.147722;146.196.86.81;urszulapicheta@o2.pl
+Dorota;Korbel;31042822024;9937500934;al. Świerczewskiego 92/17,12-949 Oława;-78.826854;-64.648357;208.203.222.14;marcel87@yahoo.com
+Sara;Potoczna;34101379145;5578766830;ul. Częstochowska 62/84,86-475 Bielawa;13.903951;58.294509;163.12.117.14;durlejfabian@onet.pl
+Iwo;Malka;48032469350;4955151068;ulica Odrzańska 38/29,20-681 Białogard;-16.8419685;155.986049;216.236.237.117;wieczerzakolaf@o2.pl
+Sandra;Wojtaszczyk;09210881025;4891235906;ul. Ceglana 68,61-590 Malbork;-43.3016925;140.443812;86.72.12.209;spiesik@gmail.com
+Sandra;Łapacz;38081166759;5611439578;ul. Sikorskiego 68,37-102 Wałbrzych;-57.953517;-157.531777;143.33.182.250;rmyszk@yahoo.com
+Grzegorz;Domżał;34011556001;8686936058;ulica Spółdzielcza 31/39,96-823 Tarnobrzeg;19.8986785;-145.687759;33.165.184.62;lsiejak@hotmail.com
+Alan;Kierat;75082539847;9118923595;ulica Sosnowa 797,70-068 Piła;-16.763460;25.862185;207.219.196.21;eliza75@o2.pl
+Mikołaj;Szurek;83041404763;6229789402;al. Błękitna 711,06-870 Ruda Śląska;38.703517;-174.822798;153.154.134.165;oliwier03@o2.pl
+Gabriel;Morka;73112008592;8853925249;aleja Okrzei 22/62,24-128 Kwidzyn;-66.3072915;-106.290895;209.118.238.104;ebluszcz@onet.pl
+Konstanty;Kajdas;68020746818;8359240555;aleja Szeroka 90,24-298 Biała Podlaska;41.6048335;-70.857650;204.129.229.195;ksawery94@yahoo.com
+Sebastian;Grzela;69122054245;1950086519;plac Zbożowa 35,33-793 Białogard;-52.653590;-13.303610;223.25.90.252;bondyrakarina@o2.pl
+Konrad;Hałka;03320614971;9588566164;ul. Hutnicza 890,53-267 Malbork;52.237297;138.461651;66.141.32.194;adrian87@yahoo.com
+Monika;Zyguła;56060336504;4786562974;aleja Kolonia 143,58-430 Stalowa Wola;44.4998535;0.108026;210.105.232.12;zdrozd@onet.pl
+Jacek;Hajdukiewicz;22100487110;3788134294;al. Strażacka 63/41,93-808 Turek;-50.247517;36.034968;79.154.5.179;marianna17@o2.pl
+Tymon;Frania;95042513009;9592209708;al. Piłsudskiego 703,91-807 Ostrów Wielkopolski;-71.8803215;75.977945;11.23.141.99;fryderykgumieniak@gmail.com
+Hubert;Ziajka;12021086790;5129697054;plac Pałacowa 19,00-605 Pabianice;-7.894626;120.820718;78.93.84.73;epospiech@yahoo.com
+Dominik;Żółtek;69022158922;7711111631;ulica Dworcowa 56/04,35-694 Kołobrzeg;44.5773335;31.682752;117.62.151.181;kaja58@hotmail.com
+Karol;Dziechciarz;61022675085;6565989706;al. Głogowa 056,59-679 Płock;-15.8149315;-138.257742;166.65.201.205;kornelia94@gmail.com
+Mieszko;Białach;57032987139;6419353990;plac Torowa 84,08-865 Wałcz;70.063654;127.612412;39.228.152.195;kornel78@interia.pl
+Elżbieta;Łakota;86061158696;1089611907;ulica Częstochowska 533,99-861 Kędzierzyn-Koźle;50.8205715;157.101900;222.163.198.169;swywial@hotmail.com
+Kajetan;Kopa;28062755090;6168558831;ul. Sportowa 945,15-643 Ostrów Wielkopolski;-82.1627775;27.836170;195.47.53.239;cypriansondej@hotmail.com
+Kornel;Denkiewicz;57093047979;2334939103;al. Łąkowa 189,49-381 Wałcz;19.9625105;121.608758;87.97.32.164;natanielkazberuk@interia.pl
+Wojciech;Warchał;70080397457;8736459555;al. Sokola 05,45-447 Stargard Szczeciński;77.9188855;130.264279;174.196.47.11;doliwaadam@o2.pl
+Mateusz;Broncel;03231211694;6337997563;ulica Miodowa 065,01-164 Myszków;-80.692760;60.456260;148.51.124.168;kornelia91@hotmail.com
+Sara;Nurkiewicz;69122437912;8352802731;pl. Rolna 957,38-343 Siedlce;2.552458;-75.542138;128.181.22.57;stillerapolonia@yahoo.com
+Radosław;Pietraszkiewicz;99041594225;4356052911;pl. Wodna 82,00-958 Ostrów Wielkopolski;-21.719596;61.996479;173.142.4.101;olaf27@onet.pl
+Rozalia;Kustosz;80070840649;2412887806;aleja Piękna 75/75,74-178 Knurów;10.024970;167.169400;196.13.176.9;konstanty14@onet.pl
+Andrzej;Potok;55080684114;3811956283;al. Powstańców Wielkopolskich 74/70,93-994 Świętochłowice;35.971827;42.054155;195.9.254.189;radoslawandruszko@gmail.com
+Mikołaj;Franków;06290991381;9320881107;pl. Hutnicza 05,49-683 Jasło;-57.413585;44.799170;222.60.138.226;igor76@yahoo.com
+Ida;Matyjasek;83032598516;4379092558;pl. Solidarnosci 94,31-627 Jastrzębie-Zdrój;71.8936355;-175.094279;16.185.107.43;eryk89@o2.pl
+Fabian;Zasępa;09232965716;8739072667;plac Sosnowa 927,99-981 Świdnik;-88.137940;-146.539291;132.91.144.169;marcin41@interia.pl
+Kaja;Zapadka;80032971800;3839645692;pl. Spółdzielcza 726,07-710 Ostrów Mazowiecka;22.4664965;-65.687909;106.236.182.148;kalinadudczak@gmail.com
+Sebastian;Plebanek;05221668970;3471974789;plac Krokusowa 12/74,35-856 Wrocław;-51.7678085;67.840811;94.6.98.251;arkadiusz16@interia.pl
+Sandra;Kochel;65111362744;8670796382;plac Gajowa 92,34-415 Jasło;-73.195784;-58.444948;133.238.27.68;adrianpindor@yahoo.com
+Franciszek;Korek;20081787906;2094044937;pl. Gołębia 05/41,92-029 Lębork;-21.0799665;-34.700933;87.150.44.181;lkastelik@yahoo.com
+Daniel;Maciejczuk;47033021675;4280934851;ulica Lotnicza 44,23-834 Wrocław;-19.907549;-29.627463;197.109.253.191;gpiwowarek@yahoo.com
+Dawid;Kubasiewicz;90052451046;2694068573;pl. Bolesława Chrobrego 31,99-657 Chrzanów;-56.975860;-152.312070;111.234.160.59;pmlynczak@interia.pl
+Dorota;Politowicz;79011105947;3993539472;ul. Rózana 57/43,00-942 Ciechanów;22.605907;64.739195;211.179.0.143;kaczkaignacy@hotmail.com
+Fryderyk;Jakiel;31020672094;3275013332;aleja Opolska 88/35,68-406 Słupsk;-49.279064;28.712907;150.19.167.79;miotkemariusz@hotmail.com
+Jerzy;Grzegorzak;57080141569;3880298593;aleja Widokowa 21,40-891 Szczytno;-76.245634;17.096719;64.149.220.204;kajetan78@gmail.com
+Kazimierz;Korta;63021340009;1337698792;al. Wybickiego 83,52-439 Turek;17.0504585;-114.620069;167.106.211.172;lsierota@onet.pl
+Jędrzej;Maślach;37051088385;1524583703;plac Bolesława Krzywoustego 58/31,12-396 Ząbki;89.8063735;-23.556533;157.6.171.145;malwinatomaszuk@hotmail.com
+Julian;Gniewek;84042399047;9854454829;al. Szymanowskiego 54/07,17-621 Żywiec;-47.1526535;21.505937;214.93.5.191;monika65@gmail.com
+Julian;Sobuś;51071639183;5335381171;ulica Krótka 331,69-766 Bielsk Podlaski;42.377826;95.035739;158.69.95.148;patryk62@interia.pl
+Cezary;Meissner;19260344124;7743945753;ul. Przechodnia 28,71-831 Jastrzębie-Zdrój;0.124254;13.174772;205.41.121.185;nehringagnieszka@yahoo.com
+Gustaw;Helman;22221990665;7570178170;aleja Dobra 02/47,42-470 Suwałki;-45.221106;-36.520713;214.27.15.132;sarniakapolonia@interia.pl
+Tomasz;Wziątek;26121689702;9173798203;aleja Górska 99/89,91-102 Jarocin;54.2057265;103.349662;192.42.69.72;dymarczykartur@onet.pl
+Kaja;Pych;84020999681;9510427110;plac Odrzańska 332,77-398 Oława;-33.042268;-84.005014;144.49.215.24;patryk99@interia.pl
+Witold;Salach;57122376067;5256865360;aleja Jaskółcza 972,74-222 Augustów;39.600903;165.636094;108.20.112.130;mikolaj29@onet.pl
+Jan;Pazoła;72041731153;9972608780;pl. Konarskiego 105,08-518 Dębica;48.5431165;-70.961049;181.105.212.173;juliuszszymula@hotmail.com
+Dorota;Słaba;33122167782;8727735257;ul. Reja 56/42,35-887 Dąbrowa Górnicza;-7.2269825;6.338865;219.206.87.157;malwina73@yahoo.com
+Robert;Zbrożek;62022032412;3623939587;pl. Narcyzowa 98,46-250 Września;-10.2251525;-131.356051;114.52.169.53;siatkatomasz@o2.pl
+Jerzy;Chachuła;00273062659;8671987121;plac Boczna 74/55,50-977 Starachowice;-63.5472625;-46.556823;215.159.245.180;justyna34@yahoo.com
+Urszula;Ciechowicz;85051293388;7253915555;al. Nowa 572,45-395 Pruszcz Gdański;17.499302;34.391941;199.11.31.179;spodgorny@yahoo.com
+Apolonia;Ochal;68111074176;5476259615;pl. Skargi 81/89,38-175 Brodnica;33.034056;-114.817828;163.148.156.206;ppasich@hotmail.com
+Norbert;Jonik;95122714777;2194334534;al. Królewska 87/07,85-510 Zgorzelec;-17.824334;147.833966;136.233.124.79;leonard01@o2.pl
+Daniel;Pupek;64070255478;2789385626;al. Jadwigi 548,49-282 Wałcz;82.608020;142.914705;155.57.165.111;konsekjulian@hotmail.com
+Tola;Świerad;85021813000;7230796153;ulica Kossaka 22/92,42-657 Mińsk Mazowiecki;-10.982750;159.651964;176.92.159.47;odrzywolekmelania@interia.pl
+Eryk;Rubacha;41061401977;2334001070;ul. Fiołkowa 96,85-254 Pabianice;71.752073;24.312513;58.44.226.176;ussbianka@interia.pl
+Krzysztof;Morgała;19292011634;5119312236;ul. Willowa 603,54-609 Piaseczno;1.2996885;121.630531;187.191.18.196;kacperborysewicz@interia.pl
+Marek;Trybuś;45120925048;7847258753;al. Zakątek 05,55-597 Pruszków;-63.8490595;-132.947203;160.137.196.146;anita29@o2.pl
+Miłosz;Lelito;91101747558;5543332341;plac Paderewskiego 46,45-279 Cieszyn;-73.2413945;-174.455023;181.93.95.88;leon70@gmail.com
+Norbert;Sydor;18082498431;6685399976;aleja Widokowa 198,47-235 Malbork;88.8164155;-161.289487;29.1.174.27;ciemiegamarek@interia.pl
+Blanka;Burnat;09081235435;3118047647;aleja Handlowa 327,48-722 Krotoszyn;68.550220;-117.489840;172.58.84.133;szymon52@hotmail.com
+Tymon;Łój;78082759251;5282619634;aleja Piekarska 32/36,81-827 Dąbrowa Górnicza;77.978755;83.296157;171.191.68.183;jdownar@hotmail.com
+Anastazja;Pachuta;09273001325;4245322572;ul. Chełmońskiego 40/31,40-973 Gorzów Wielkopolski;-82.5189515;-113.388816;168.188.139.49;maksymiliantokaj@hotmail.com
+Borys;Kaluga;18241267188;1132897588;aleja Jaskółcza 59/66,22-097 Kraków;84.5233815;-96.174997;220.115.252.169;bogrodowicz@gmail.com
+Andrzej;Glanc;17272056253;1752707731;plac Nowa 53,87-870 Chojnice;-45.7767335;151.235599;153.9.143.51;gmajsterek@interia.pl
+Igor;Balas;91052653728;5641193969;al. Orla 66/97,22-732 Ostróda;9.7285015;128.349734;157.21.19.216;dmatla@o2.pl
+Marika;Powierża;07051925403;3976130993;ul. Wczasowa 27,63-635 Skawina;53.310705;-176.000258;136.25.142.124;mieszkomirgos@hotmail.com
+Aleksander;Forma;17071183015;5090897515;pl. Zielna 75,30-355 Jawor;-41.9485855;-35.015862;174.52.252.236;cyprianrejek@interia.pl
+Kornel;Ważny;17220898007;4953457550;al. Koralowa 249,82-989 Suwałki;66.5532395;50.157711;157.154.43.153;aleks99@interia.pl
+Anastazja;Więcławek;20100190821;9832239029;aleja Kalinowa 498,53-773 Zambrów;-12.295492;98.784699;199.130.142.131;stanislaw06@yahoo.com
+Olga;Listwan;29092257127;5519827211;ulica Popiełuszki 59/34,58-361 Tczew;-70.0298295;-112.680471;86.211.97.18;hcebulak@gmail.com
+Ryszard;Wardziak;66070951859;3268559343;pl. Wolności 68,90-775 Kalisz;14.159775;-142.192763;207.241.183.148;milosz24@o2.pl
+Kajetan;Roskosz;15231508197;1382748837;al. Targowa 81/50,30-663 Kraśnik;52.4941775;-146.928418;188.28.8.197;wicharysara@o2.pl
+Konstanty;Jakiel;00242744980;3299097760;ulica Piwna 49/52,37-023 Kluczbork;15.5879875;-155.049089;160.122.8.245;blanka74@yahoo.com
+Anita;Rembacz;64031177139;6298744851;pl. Mickiewicza 988,11-043 Łódź;-41.952444;-93.667937;5.157.229.251;qputo@yahoo.com
+Krystian;Jarkiewicz;37110934471;1040347294;ulica Willowa 36/62,91-638 Kościan;-32.183796;80.520513;210.80.176.168;klara61@yahoo.com
+Roksana;Kozar;17051532954;3630108054;al. Tęczowa 41/95,18-749 Lębork;59.3178065;-146.705272;156.32.246.180;mariusz85@gmail.com
+Mateusz;Paliga;91050521326;8752791132;ul. Jałowcowa 93/83,32-194 Koło;40.4439195;133.449572;217.9.248.255;chocholsebastian@o2.pl
+Patryk;Wiszowata;32053062867;1828525782;ulica Kołłątaja 63,52-743 Oława;-12.372370;-167.025648;169.14.127.110;jniechcial@interia.pl
+Monika;Tryka;19210735750;1810306932;ulica Spacerowa 26/32,26-163 Wałcz;-29.7001805;-110.564176;125.86.137.233;dietrichalbert@gmail.com
+Tymoteusz;Iwanow;94080847682;6597915177;aleja Radosna 35/96,67-243 Dąbrowa Górnicza;74.5385345;71.936817;76.254.226.7;szymonzakiewicz@yahoo.com
+Karina;Kasica;84062317463;1098523456;aleja Długa 743,62-125 Skarżysko-Kamienna;44.4444105;21.322300;23.130.238.95;woszczynasonia@gmail.com
+Mikołaj;Młyńczyk;93081814576;3692102065;aleja Władysława Łokietka 664,11-208 Ostrów Mazowiecka;32.591303;161.400292;206.56.8.235;wjakimiak@hotmail.com
+Lidia;Malcharek;20053080929;5931886830;plac Źródlana 789,55-916 Kielce;-66.1248935;-43.682058;205.83.53.137;eckertmikolaj@yahoo.com
+Maurycy;Wendt;75031315764;8977749711;plac Olchowa 08,76-094 Czerwionka-Leszczyny;-17.9659195;88.098841;195.101.152.223;kolaczekdagmara@interia.pl
+Tobiasz;Holeksa;33091040268;8151288894;ulica Lwowska 353,68-610 Nowa Sól;39.225719;109.096802;31.252.230.49;stefanwiekiera@o2.pl
+Gabriel;Bródka;51021911406;2856960881;pl. Kowalska 044,55-386 Ostróda;-52.957634;-53.071870;204.103.82.142;reichmarcel@hotmail.com
+Julian;Lempart;18281495114;4229196598;al. Graniczna 880,19-813 Tarnowskie Góry;16.9920055;128.179269;2.64.9.207;uwojs@hotmail.com
+Konrad;Grabas;21311102225;9959891592;ul. Makowa 15,17-652 Tczew;3.1361965;-75.708474;68.155.27.218;przemyslaw98@gmail.com
+Kazimierz;Stój;58062962817;8640044430;al. Makowa 60/01,53-360 Piastów;7.3743145;-129.541873;196.11.169.184;cholodymalwina@o2.pl
+Antoni;Kacperek;79012405343;4387983875;ulica Makuszyńskiego 149,06-300 Skarżysko-Kamienna;-61.822232;64.598773;49.3.33.129;mkarys@yahoo.com
+Borys;Fojt;19012684643;5117226099;ul. Środkowa 906,52-627 Białogard;6.1782425;40.173739;200.34.45.1;przemyslawfugiel@hotmail.com
+Monika;Fita;47112501799;3363896756;ul. Widokowa 33,27-389 Nowa Sól;-38.291848;-65.721825;190.25.254.25;ernest96@hotmail.com
+Jędrzej;Dworczak;06273170086;4858164913;al. Spokojna 27/33,35-005 Sopot;30.939403;51.701903;172.68.143.83;wardzalaprzemyslaw@yahoo.com
+Karina;Korda;94032190103;8996571711;plac Bema 99/68,98-732 Mysłowice;-69.849753;165.937189;115.158.105.63;tymon79@o2.pl
+Kalina;Wojczuk;83012536798;3884050163;ulica Miodowa 268,47-255 Ostrowiec Świętokrzyski;70.912684;-112.250018;78.240.112.188;konradosik@onet.pl
+Malwina;Sornat;18071298215;7415324176;pl. Cyprysowa 76,23-461 Czerwionka-Leszczyny;-82.8810055;-86.220112;61.154.171.143;glapiakewa@gmail.com
+Tymoteusz;Tatarek;52031860135;2825280435;ulica Agrestowa 31,43-629 Łomża;-28.546313;23.030644;156.166.129.123;mhalat@onet.pl
+Gabriel;Ulewicz;95010434879;6949734062;ul. Kruczkowskiego 032,61-483 Ełk;-56.3807445;-39.079366;209.111.49.66;kaja94@yahoo.com
+Konrad;Szumacher;08081603060;2158818961;pl. Wyspiańskiego 362,93-888 Konin;-84.597208;-4.382003;215.89.17.209;anastazjatalaska@gmail.com
+Gaja;Budzeń;84042787477;7374738135;ul. Mazowiecka 778,19-931 Świnoujście;-70.9654355;42.651932;154.60.18.44;radzewiczeryk@hotmail.com
+Kamil;Helak;07121631739;6827322542;ulica Wrzosowa 20/17,43-369 Starogard Gdański;-12.7709185;-13.200001;181.91.222.5;rsoloducha@interia.pl
+Lidia;Płodzień;50020606180;8314107466;al. Słonecznikowa 525,12-386 Świnoujście;-80.428853;-26.408733;138.111.51.245;zurawikborys@hotmail.com
+Ryszard;Kosak;52122560418;6075935413;pl. Zbożowa 49,92-611 Kielce;-11.9930665;-29.937154;200.210.127.235;milosznagorka@interia.pl
+Aurelia;Ulfik;08311135051;2879831147;plac Lawendowa 977,94-270 Turek;-78.2012475;-161.798740;93.117.232.24;gjanasik@gmail.com
+Julita;Kwapień;21031435139;9987713661;al. Prosta 937,13-445 Zamość;-5.7205075;49.974949;219.147.68.92;karolzmyslony@onet.pl
+Rafał;Obuchowicz;45010968933;7293239818;pl. Moniuszki 608,62-964 Wejherowo;-7.4002765;110.087354;128.82.83.2;fidoskrystyna@o2.pl
+Julian;Piotrowiak;39041713756;7731631233;ulica Nowa 06,85-316 Legnica;21.192453;-39.425998;199.65.196.84;leonard05@o2.pl
+Olgierd;Szymków;77110760737;7280221420;al. Orzechowa 44/29,97-581 Świdnik;-32.7935275;-178.573274;190.143.36.55;kamil58@yahoo.com
+Anastazja;Klucznik;76111453714;3319069650;ul. Hutnicza 534,63-071 Wałbrzych;47.1556985;-167.329137;6.229.60.86;maciochajerzy@gmail.com
+Eliza;Klęczar;34041750934;8988415853;plac Częstochowska 248,71-637 Wągrowiec;-18.684278;156.899169;123.211.240.32;utofil@onet.pl
+Kacper;Urynowicz;11012930595;2493434700;ulica Łanowa 85,25-342 Chełm;78.6186865;116.404527;200.175.37.53;medralaolga@interia.pl
+Gustaw;Sura;40071512316;1736789220;aleja Zaciszna 859,70-627 Wrocław;61.121033;-42.567552;195.251.204.45;alanbogusiewicz@gmail.com
+Maksymilian;Lalak;25011755040;9450976912;pl. Piaskowa 89/77,24-075 Zabrze;41.9094465;133.583643;174.180.223.180;krzysztofblaut@o2.pl
+Ida;Dworniczak;31021070730;3816416344;plac Prosta 55/84,93-863 Krosno;-77.344116;-133.333342;41.155.115.93;juliannadoroba@gmail.com
+Anita;Latoszek;77040780320;3516989969;pl. Majowa 19,43-671 Zamość;12.670397;58.797318;139.84.12.34;brunowilkos@yahoo.com
+Przemysław;Zbylut;72061889285;6976996665;ulica Wrocławska 91/29,88-337 Żyrardów;-30.118955;125.978431;196.28.240.58;wiktorgalek@interia.pl
+Konrad;Macek;07080814659;7242683147;al. Dojazdowa 056,33-581 Łuków;81.7772745;18.931930;155.161.140.74;tolaknysak@onet.pl
+Grzegorz;Kuciak;70090230661;3992308339;aleja Miodowa 548,86-099 Pabianice;2.8907705;24.008814;161.248.188.242;adrianna38@gmail.com
+Krzysztof;Kloska;91021241693;7953006719;plac Piekarska 12/54,25-895 Polkowice;-31.336508;-122.857784;171.218.9.239;anna-maria71@hotmail.com
+Sylwia;Franaszek;69072285364;3951360573;ul. Młyńska 18/55,75-158 Ostrowiec Świętokrzyski;-74.615858;-5.396457;173.163.200.199;kiljanroksana@interia.pl
+Maria;Wojtach;08311257070;3717054748;plac Bema 03/46,00-353 Oleśnica;8.2448425;-128.340204;192.237.235.10;wsiedlaczek@hotmail.com
+Andrzej;Opas;17041397471;9475002187;aleja Orzechowa 880,57-982 Biłgoraj;-87.602482;-101.906893;25.144.142.63;zimmerblazej@o2.pl
+Maurycy;Roter;99040100302;7543266935;al. Kaszubska 296,46-668 Łomża;-14.976617;109.143046;143.67.43.226;norbert42@o2.pl
+Antoni;Galos;18062652435;6541255016;ul. Skargi 93/74,53-953 Mława;42.4519185;-38.700512;117.107.9.10;tbilewicz@yahoo.com
+Alan;Fijoł;60101649795;1871271470;ul. Stawowa 94/23,10-647 Radomsko;56.4909975;-35.681751;169.11.58.34;boryszabierek@onet.pl
+Maria;Kulus;36102720418;1367686440;pl. Okrężna 151,52-747 Mielec;-37.177051;-114.160522;132.174.9.253;pwawszczak@gmail.com
+Adrianna;Romańczyk;59041995686;5664919967;ul. Okrężna 634,85-400 Kwidzyn;65.067368;39.401164;217.88.41.69;kalina17@onet.pl
+Gabriel;Kursa;10051307698;4830882882;ul. Okulickiego 07/94,64-294 Mielec;22.8926675;-67.542065;93.156.255.181;kajakobel@o2.pl
+Krystyna;Zubowicz;43103099522;1915657216;pl. Krucza 85,11-011 Czeladź;47.1336415;-77.836361;168.231.125.2;fmisztela@hotmail.com
+Marika;Wizner;11303186665;5031722754;pl. Lwowska 450,92-099 Goleniów;51.5499135;-172.014397;126.5.6.33;ignacy38@yahoo.com
+Igor;Deptuch;65092503370;1864472546;ul. Działkowa 16/01,22-837 Kędzierzyn-Koźle;35.2026135;-98.742119;174.220.243.20;dariusz91@yahoo.com
+Paweł;Majsterek;05210706526;1819348151;ul. Drzymały 49,96-609 Dębica;-87.5765755;-175.953991;114.43.85.20;borysbiesek@o2.pl
+Dariusz;Nijak;19113085026;6193776427;al. Młyńska 74,10-086 Iława;-84.7407215;-156.038905;202.128.89.167;zmasny@interia.pl
+Fryderyk;Wikło;78122760566;8887115351;ulica Turkusowa 45/71,36-848 Świdnik;-15.071697;-116.921932;163.97.233.204;sommeragnieszka@yahoo.com
+Juliusz;Lica;59062250322;5087838023;ulica Orkana 357,72-364 Płock;68.615958;-88.232220;151.55.27.53;artur86@gmail.com
+Aniela;Klaus;17252109256;6813059721;aleja Modrzewiowa 78/95,71-197 Police;-41.1368645;63.163306;90.158.10.190;qpalen@o2.pl
+Eliza;Mieloch;87051704367;4983671319;aleja Szymanowskiego 876,64-604 Świdnica;60.1283005;-147.325604;197.177.95.60;inga91@onet.pl
+Miłosz;Koćwin;31122003185;4558001532;aleja Brzoskwiniowa 574,16-445 Wejherowo;86.141573;-72.595446;178.195.239.105;jakubsolarek@onet.pl
+Kamila;Dreszer;20300396247;8913687547;ulica Cegielniana 63,78-583 Tarnowskie Góry;53.3881095;-76.060179;42.135.99.170;krystianpleskot@onet.pl
+Arkadiusz;Łudzik;16241147471;8834421068;ulica Wiatraczna 19,07-503 Koszalin;1.9800875;152.162458;8.246.1.255;psladek@interia.pl
+Kornel;Woszczak;98092805326;8612860531;ulica Narutowicza 850,65-339 Toruń;-6.1634375;-55.580047;222.93.151.228;pdawiec@gmail.com
+Miłosz;Dworniczak;08040195610;2891028595;al. Brzechwy 871,66-687 Kętrzyn;-17.0678615;76.250858;63.203.255.71;nela16@yahoo.com
+Roksana;Wiewiórka;94060912881;3840288772;ulica Krasickiego 73,16-248 Płock;80.3658705;-110.556434;48.71.113.82;tola31@interia.pl
+Karol;Pietraszkiewicz;26032551569;9352877445;pl. Żabia 510,76-252 Legionowo;66.0245645;167.206724;154.193.197.206;cyprianjas@o2.pl
+Radosław;Lica;23112477625;3311157018;aleja Stycznia 376,06-007 Sandomierz;0.3537195;105.217972;162.168.104.54;fokla@interia.pl
+Grzegorz;Budniak;05301919930;6213830102;plac Mokra 63,77-744 Marki;47.984037;22.043822;210.212.160.65;szybapatryk@interia.pl
+Wojciech;Dubik;19032763027;2794565986;al. Witosa 00/46,55-487 Chełm;-38.723215;109.369047;206.20.110.212;tymonszmuc@hotmail.com
+Kajetan;Dziwak;09232318712;5169335274;ulica Nadbrzeżna 92,28-579 Ostrowiec Świętokrzyski;6.9866765;5.530243;199.12.52.135;srogamaciej@o2.pl
+Adam;Trybuś;08272543236;4474981980;ul. Parkowa 83/22,63-661 Marki;-67.5258515;-28.266832;195.224.11.51;lukaszkryszkiewicz@yahoo.com
+Aleks;Laszuk;47081345499;6132586655;aleja Wyspiańskiego 95,62-133 Tarnów;-9.8416455;83.521745;151.157.183.123;adrianszabla@onet.pl
+Kazimierz;Petryk;45042859812;3177980143;al. Stefana Batorego 97,66-558 Ostrołęka;-81.748915;-176.239286;222.100.78.154;kazimierzsiemion@onet.pl
+Elżbieta;Pawełko;52072645263;3171502566;ul. Śląska 40/06,96-870 Dąbrowa Górnicza;50.3942315;162.482052;111.28.18.162;roza91@onet.pl
+Oliwier;Patoła;64011725507;4651010964;ul. Owocowa 550,32-333 Czerwionka-Leszczyny;54.5636375;161.600510;215.84.105.215;hubert38@onet.pl
+Dominik;Krystkowiak;33100271687;3969712116;pl. Robotnicza 09/05,73-058 Kędzierzyn-Koźle;-64.3124635;-113.779017;105.190.192.12;urszula01@hotmail.com
+Marcin;Wołos;00220623221;1855990690;ul. Akacjowa 72/73,88-905 Marki;26.5030295;-20.832388;47.103.85.175;jerzy58@gmail.com
