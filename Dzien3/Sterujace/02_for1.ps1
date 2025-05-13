@@ -1,1 +1,0 @@
-﻿# start, warunek zakonczenia, inkrepemtacjaClear-Hostfor($i=1;$i -le 10;$i=$i+2){    Write-Host "Zmienna i = $i"}$i=1for(;;){    write-host "#" -NoNewline    if ($i++ -ge 5)    {        break    }}
